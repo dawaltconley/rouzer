@@ -47,7 +47,7 @@
 道	dào	1. Road, path; skill, method; philosophy; the right way to live. * 2. To speak, to say.You probably already know the cultural significance of 道. Although it gave its name to the Taoist (Daoist) religion and philosophy, all Chinese philosophies and religions use "the Way" to indicate the proper path in life.Radical 162 (辵, "walking").Lesson 2Vocab 41
 行	xíng	xíng (1); xìng (2)1. To go, to walk; to act; to conduct [affairs]; to carry out [an action]; to circulate [information, currency, etc.]; to practice, to put into practice. * 2. Behavior; conduct.行 is one of the most common characters in literary Chinese, and it is used for many actions. Most importantly, the basic meaning "to go" extends to ideas of behavior and conduct.Radical 144 (行).Lesson 2Vocab 42
 循	xún	To follow, to comply with.This character is a near synonym for 順 (40). The text uses it here for variety's sake.Radical 60 (彳).Lesson 2Vocab 43
-理	lǐ	, iPrinciples; pattern, rationale; to straighten, to arrange, to put in order.  In much later Chinese philosophy---the Neo-Confucianism that began in the eleventh century---this character was used to represent the cosmic order and the pattern of things. In the early period, its meaning is somewhat more modest and can be anything from the stripes on a tiger to the right way to do something. It originally meant "to polish gems in accordance with their veins."Radical 96 (玉, "jade").Lesson 2Vocab 44
+理	lǐ	Principles; pattern, rationale; to straighten, to arrange, to put in order.  In much later Chinese philosophy---the Neo-Confucianism that began in the eleventh century---this character was used to represent the cosmic order and the pattern of things. In the early period, its meaning is somewhat more modest and can be anything from the stripes on a tiger to the right way to do something. It originally meant "to polish gems in accordance with their veins."Radical 96 (玉, "jade").Lesson 2Vocab 44
 言	yán	To speak, to say; words, speech.When 言 takes an object, it usually is the topic of speech. For example: 人言禍, "People talk about disaster."Radical 149 (言).Lesson 2Vocab 45
 喜	xǐ	To be happy, to be delighted; to enjoy [something]; joy, pleasure.Do not confuse this character with 善 (25).Radical 30 (口).Lesson 2Vocab 46
 加	jiā	1. To increase. 2. To participate [in], to be of benefit. 3. Increasingly, more. * 4. To apply [to]. 5. Advantage, gain.The adverbial usage ("increasingly, more") may seem a little odd. It functions as a way to express "comparatives" ( -er adjectives in English). Examples: 君子不加小, "The gentle-man does not become any smaller"; 小人不加聖, "The petty person does not become any wiser."Radical 19 (力, "strength").Lesson 2Vocab 47
@@ -115,7 +115,7 @@
 齊	qí	1. The state of Qi. * 2. To be equal, to be the same.Regarding meaning #1: 齊 was a state in pre-imperial China, occupying part of the area of Shandong 山東 province. This is the first of a number of state names you will learn.  Because so much of traditional Chinese culture refers back to the early period, you should become familiar with them.Radical 210 (齊).Lesson 4Vocab 102
 桓	huán	Martial, military.This is a relatively uncommon character, used most often in proper names and titles (as in this case).Radical 75 (木).Lesson 4Vocab 103
 公	gōng	1. "Duke" (a feudal title). * 2. Gong. [a surname; see Lesson 6 for an example] 3. Master. [polite suffix, similar to 生 ( 10-2 ) and 子 ( 29-2 )] 4. You, Sir. [polite second person pronoun, similar to 子 ( 29-3 )]For details on feudal titles, see 4.1. Meanings #3 and #4, though quite common, do not occur in our lesson texts.Radical 12 (八).Lesson 4Vocab 104
-齊桓公	qí huán gōng	Duke Huan of Qi.He reigned from 685 to 643 b.c.e. As with the names of the states, you should familiarize yourself with some of the more famous rulers and historical figures of the pre-imperial period. For more on the importance of Duke Huan, see 25.1.Lesson 4Vocab 102a
+齊桓公	Qí Huángōng	Duke Huan of Qi.He reigned from 685 to 643 b.c.e. As with the names of the states, you should familiarize yourself with some of the more famous rulers and historical figures of the pre-imperial period. For more on the importance of Duke Huan, see 25.1.Lesson 4Vocab 102a
 大	dà	Great, large, important.Radical 37 (大).Lesson 4Vocab 105
 臣	chén	1. Minister; subject [of a ruler]. * 2. [First person pronoun when addressing a superior.]*Pay special attention to the pronoun use. This is comparable to archaic English usages like  "Your Humble Servant."Radical 131 (臣).Lesson 4Vocab 106
 具	jù	1. To prepare. * 2. Utensil, tool. 3. All, the whole, every. [adverb]Radical 12 (八).Lesson 4Vocab 107
@@ -126,7 +126,7 @@
 日中	rì zhōng	Noon ("middle of the day").Lesson 4Vocab 110a
 管	guǎn	Tube; pipe, flute.In this anecdote the character is being used as a person's surname. In the course of this textbook you'll find that you'll have to learn many characters even though they may only occur as names in the lesson texts.Radical 118 (竹, "bamboo").Lesson 4Vocab 112
 仲	zhòng	The second in order of birth.This character is used most often to differentiate the middle of three siblings, or to indicate an uncle's age in relation to other uncles. See 仲父 (113 a). However, in this anecdote it is a personal name.Radical 9 (人).Lesson 4Vocab 113
-管仲	guǎn zhòng	Guan Zhong.A prominent minister of 齊桓公, he became famous as a model adviser and strategist, and many anecdotes are told about him. A book of political advice, the Guanzi 管子, is attributed to him, but it was probably composed after his death.Lesson 4Vocab 112a
+管仲	Guǎn Zhòng	Guan Zhong.A prominent minister of 齊桓公, he became famous as a model adviser and strategist, and many anecdotes are told about him. A book of political advice, the Guanzi 管子, is attributed to him, but it was probably composed after his death.Lesson 4Vocab 112a
 至	zhì	1. To arrive. * 2. To go so far as; to reach the point of. 3. When, when the time came that. 4. The ultimate, the most, the perfect.This is an especially common character. In addition to its straightforward verbal usage, it has a number of more abstract uses. The second meaning can be used in expressions representing the extent to which an action may be carried out. For example: 報至死, "he took revenge to the extent of death"---he took revenge even to the extent that he risked death or killed his enemy. The third meaning can be used as a simple time marker. For example: 至行齊, "when he went to Qi . . . ." The last meaning is used as an adverb to represent the superlative degree of some quality. For example: 至善, "the most perfect good," "the high-est degree of good."Radical 133 (至).Lesson 4Vocab 114
 舉	jǔ	jǔ (1); jù (2)1. To raise, to lift; to mobilize [troops]; to light [a fire]. * 2. All, entire, every.Radical 134 (臼).Lesson 4Vocab 115
 觴	shāng	Cup, goblet, drinking cup; to offer a toast.The radical suggests that this character originally indicated a drinking vessel carved from the horn of an animal.Radical 148 (角, "animal horns").Lesson 4Vocab 116
@@ -153,7 +153,7 @@
 
 // Rouzer/Lesson 5
 曾	zēng	zēng (1); céng (2)1. Zeng. [a surname]* 2. Once in the past. [adverb tense marker]Radical 73 (曰).Lesson 5Vocab 135
-曾子	zēng zǐ	Master Zeng (one of Confucius' disciples).Note the meaning of 子 (29 - 2) when used as a suffix in polite designations.Lesson 5Vocab 135a
+曾子	Zēngzǐ	Master Zeng (one of Confucius' disciples).Note the meaning of 子 (29 - 2) when used as a suffix in polite designations.Lesson 5Vocab 135a
 衣	yī	yī (1); yì (2)1. Clothes, robe. * 2. To put on clothes, to wear clothes. *Note that each part of speech has a different tone.Radical 145 (衣).Lesson 5Vocab 136
 弊	bì	Worn out, tattered.Radical 55 (廾, "joined hands").Lesson 5Vocab 137
 耕	gēng	To plow.Radical 127 (耒, "plow").Lesson 5Vocab 138
@@ -185,14 +185,14 @@
 能	néng	To be able to, can; to be capable, to be able; ability, talent.Radical 130 (肉, 月, "flesh").Lesson 5Vocab 162
 勿	wù	Do not. [imperative]For details on the use of this character, see 5.7 below.Radical 20 (勹, "package").Lesson 5Vocab 163
 孔	kǒng	1. Hole; nostril. 2. Kong. [a surname]*Radical 39 (子).Lesson 5Vocab 164
-孔子	kǒng zǐ	Master Kong (Confucius).The Western version of the name actually derives from a latinization of Kǒngfūzǐ 孔夫子, an even more honorific title for the philosopher.Lesson 5Vocab 164a
+孔子	Kǒngzǐ	Master Kong (Confucius).The Western version of the name actually derives from a latinization of Kǒngfūzǐ 孔夫子, an even more honorific title for the philosopher.Lesson 5Vocab 164a
 參	cān	cān (1); shēn (2)1. To counsel; to consult; to participate. 2. Shen. [a personal name]*This character is a fairly common verb, and you should learn its meanings. However, in this case, the word (in its second pronunciation, shēn) is simply the personal name of 曾  子. Obviously Confucius would refer to his own student by his personal name, not by an honorific title.Radical 28 (ㄙ).Lesson 5Vocab 165
 足	zú	1. To be sufficient, to be enough; to be competent at. * 2. Foot.This character is often used an auxiliary verb, in the expression 足以, "be sufficient to . . ."; see 7.3 for further details.Radical 157 (足).Lesson 5Vocab 166
 全	quán	Complete, preserved; to preserve, to complete.Radical 11 (入).Lesson 5Vocab 167
 節	jié	Joint (originally, of bamboo); segment; virtue, chastity, self-restraint; virtuous, chaste.Radical 118 (竹).Lesson 5Vocab 168
 
 // Rouzer/Lesson 6
-趙	zhào	The state (and family) of Zhao.At first, one of the major aristocratic clans of the state of Jin 晉; later, a feudal state in pre-imperial China, located mostly in modern Shanxi 山西. See 169 a below for details.Radical 156 (走).Lesson 6Vocab 169
+趙	Zhào	The state (and family) of Zhao.At first, one of the major aristocratic clans of the state of Jin 晉; later, a feudal state in pre-imperial China, located mostly in modern Shanxi 山西. See 169 a below for details.Radical 156 (走).Lesson 6Vocab 169
 簡	jiǎn	1. Bamboo slip, document. 2. To abridge; to be simple; to examine.Here, the character is used in a person's title. Though this is a fairly common character, it does not appear in our texts outside of names.Radical 118 (竹).Lesson 6Vocab 170
 趙簡子	zhào jiǎn zi	Viscount Jian of Zhao.At this time, the feudal state of 趙 (controlled by the 趙 clan) was part of the larger state of Jin 晉. 趙簡子 was one of the greatest military leaders of his clan. In the time of his son, 晉 fell apart into three independent states, 趙 being one of them (see Lesson 14 for more details).Lesson 6Vocab 169a
 兵	bīng	Weapon; troops.The character originally meant "weapon" but soon came to refer to soldiers as well.Radical 12 (八).Lesson 6Vocab 171
@@ -205,8 +205,8 @@
 披	pī	To drape over the shoulders, to wear on the back.Radical 64 (手, "hand").Lesson 6Vocab 178
 甲	jiǎ	Armor, suit of armor, coat of armor.Radical 102 (田, "field").Lesson 6Vocab 179
 名	míng	Name, reputation, fame; to be named, to be called.Radical 30 (口).Lesson 6Vocab 180
-盧	lú	Lu. [a personal name]You may often encounter this character as a surname.Radical 108 (皿, "vessel," "utensil").Lesson 6Vocab 181
-公盧	gōng lú	Gong Lu. [a proper name]Note that 公 is a surname here (104 - 2), not a feudal title.Lesson 6Vocab 104a
+盧	Lú	Lu. [a personal name]You may often encounter this character as a surname.Radical 108 (皿, "vessel," "utensil").Lesson 6Vocab 181
+公盧	Gōng Lú	Gong Lu. [a proper name]Note that 公 is a surname here (104 - 2), not a feudal title.Lesson 6Vocab 104a
 望	wàng	To gaze at from a distance; to hope, to aspire to, to expect; hopes, aspirations.The character moved from its concrete meaning of "gaze at from a distance" to include a more abstract "gazing"---that is, looking off into the future for what one desires. Here, the concrete meaning is used.Radical 74 (月).Lesson 6Vocab 182
 見	jiàn	jiàn (1--3); xian (4)1. To see. * 2. [Marker of the passive voice; see 9 *.* 3 .] 3. To have an audience with [the ruler], to grant an audience to. 4. To appear, to be made manifest, to seem (used for 現 ).Radical 147 (見).Lesson 6Vocab 183
 何	hé	What, how, why. [question word]This character is the most common of all question words. Synonym: 奚 (155). Note that in our lesson text, it is serving either as the adverb "why" ("Why are you laughing?") or as the direct object of 笑, placed idiomatically before the verb ("What are you laughing at?").  See 5.5.Radical 9 (人).Lesson 6Vocab 184
@@ -241,7 +241,7 @@
 鼓	gǔ	1. Drum; to drum; to strum [a stringed musical instrument]. * 2. To wield, to brandish [usually a sword or a knife].Whereas this character usually refers to drums and the playing of drums, it also came to be used for the idea of strumming with the hand, or swinging a weapon.Radical 207 (鼓).Lesson 7Vocab 208
 琴	qín	Zither, harp.This character actually refers to a seven-stringed or nine-stringed instrument, long and board-like, that is strummed with the hands while resting in the lap or when placed in front of one on the ground. It is associated in Chinese culture with the high "classical" arts of the well-educated gentleman.Radical 96 (玉).Lesson 7Vocab 209
 鍾	zhōng	1. To gather, to concentrate. 2. Bushel [of grain] (used to measure the salary of an official).Here, 鍾 is part of a two-character surname.Radical 167 (金, "gold," "metal").Lesson 7Vocab 210
-鍾子期	zhōng zǐ qī	Zhongzi Qi (a close friend of 伯牙子 ).Lesson 7Vocab 210a
+鍾子期	Zhōngzǐ Qī	Zhongzi Qi (a close friend of 伯牙子 ).Lesson 7Vocab 210a
 聽	tīng	tīng (1); tìng (2)1. To listen to, to heed. * 2. To allow, to permit, to give permission to.Generally speaking, 聞 can refer to any unintentional act of hearing, whereas 聽 tends to refer to deliberate acts of listening.Radical 128 (耳).Lesson 7Vocab 211
 方	fāng	1. Just then, just at that moment. * 2. Square. 3. Scope, method, technique. 4. Direction.This character has a wide range of meanings; the adverbial use, meaning #1, is probably the most common.Radical 70 (方).Lesson 7Vocab 212
 志	zhì	Ambition, will, intention, inclination.This word has important connotations in philosophy. It often refers to what one's mind is preoccupied with, sometimes even subconsciously. Here, it refers to what 伯牙 was thinking of---even unconsciously---while playing.Radical 61 (心).Lesson 7Vocab 213
@@ -276,12 +276,12 @@
 里	lǐ	1. Li (measurement of distance: about 1 / 3 mile). * 2. Village, ward.In meaning #2, this character can be used to describe both autonomous villages and wards, neighborhoods, or suburbs of larger towns. In some ancient texts, 里 are described as organizational units, consisting of 25, 50, 72, or 100 households.Radical 166 (里).Lesson 7Vocab 238
 待	dài	To await, to depend on.Radical 60 (彳).Lesson 7Vocab 239
 樂	lè	lè (1); yuè (2)1. To take pleasure in, to enjoy. 2. Music.This character is common in both meanings; however, in this lesson's text it is merely a personal name.Radical 75 (木).Lesson 7Vocab 240
-伯樂	bó lè	Bo Le. [a personal name]A man famous for being able to judge good horses; this name is often used symbolically for a ruler who can recognize virtuous and capable men.Lesson 7Vocab 206b
+伯樂	Bólè	Bo Le. [a personal name]A man famous for being able to judge good horses; this name is often used symbolically for a ruler who can recognize virtuous and capable men.Lesson 7Vocab 206b
 
 // Rouzer/Lesson 8
-秦	qín	The state of Qin.A state of pre-imperial China, it was located in present-day Shaanxi 陜西 province. 秦  eventually conquered all other states and established the first Chinese empire.Radical 115Lesson 8Vocab 241
+秦	Qín	The state of Qin.A state of pre-imperial China, it was located in present-day Shaanxi 陜西 province. 秦  eventually conquered all other states and established the first Chinese empire.Radical 115Lesson 8Vocab 241
 穆	mù	Majestic, reverent.This character is relatively rare, but it can be found frequently in posthumous titles.Radical 115 (禾).Lesson 8Vocab 242
-秦穆公	qín mù gōng	Duke Mu of Qin (r. 659 -- 621 B.c.e.).Lesson 8Vocab 241a
+秦穆公	Qín Mùgōng	Duke Mu of Qin (r. 659 -- 621 B.c.e.).Lesson 8Vocab 241a
 嘗	cháng	1. To taste, to prove, to experience, to try; test. 2. In the past. *This character is one of a number in literary Chinese indicating the past tense. Sometimes it is used to represent constant or frequent occurrence in the past ("often").Radical 30 (口).Lesson 8Vocab 243
 亡	wáng	To lose, to destroy, to die, to be lost, to escape.This character is very common, and it has a wide range of meanings---but all are tied to loss or absence.Radical 8 (亠).Lesson 8Vocab 244
 駿	jùn	Swift.As the radical suggests, this character often describes fast horses.Radical 187 (馬).Lesson 8Vocab 245
@@ -318,7 +318,7 @@
 彌	mí	Increasingly.Synonym: 加 (47 - 3). Here, 彌 is part of a two-character surname.Radical 57 (弓).Lesson 9Vocab 272
 瑕	xiá	Flaw, blemish (usually applied to flaws in gems or jewels).Here, 瑕 is a personal name.Radical 96 (玉).Lesson 9Vocab 273
 彌子瑕	mí zǐ xiá	Mizi Xia (sexual favorite of the ruler of 衛 ).Lesson 9Vocab 272a
-衛	wèi	1. Wei (a small state in pre-imperial China). * 2. Guards, guardsmen.Radical 144 (行).Lesson 9Vocab 274
+衛	Wèi	1. Wei (a small state in pre-imperial China). * 2. Guards, guardsmen.Radical 144 (行).Lesson 9Vocab 274
 法	fǎ	Rule, law, custom.In Buddhist texts, this character is used for "dharma."Radical 85 (水).Lesson 9Vocab 275
 竊	qiè	1. Secretly, without authorization. * 2. To steal. 3. "In my own humble way . . . ," "in my humble opinion." [adverb marking a modest assertion by the speaker]Radical 116 (穴, "cave," "hole").Lesson 9Vocab 276
 駕	jià	To drive a carriage; carriage.Radical 187 (馬).Lesson 9Vocab 277
@@ -356,8 +356,8 @@
 憎	zēng	To hate, to detest.Radical 61 (心).Lesson 9Vocab 307
 
 // Rouzer/Lesson 10
-晏	yàn	1. Clear; peaceful, quiet. 2. Yan. [a surname]*You will find this character most often used as a surname.Radical 72 (日).Lesson 10Vocab 308
-晏子	yàn zǐ	Master Yan.A famous Chinese statesman. He was active in the late sixth century b.c.e. As we shall see later in the lesson text, his personal name was 嬰.Lesson 10Vocab 308a
+晏	Yàn	1. Clear; peaceful, quiet. 2. Yan. [a surname]*You will find this character most often used as a surname.Radical 72 (日).Lesson 10Vocab 308
+晏子	Yànzǐ	Master Yan.A famous Chinese statesman. He was active in the late sixth century b.c.e. As we shall see later in the lesson text, his personal name was 嬰.Lesson 10Vocab 308a
 將	jiāng	jiāng (1--2); jiàng (3)1. About to (marks the future tense or intention). * 2. To lead, to bring, to take with one, to wear. 3. General, commander; to command, to lead.This is a very common character; in meaning #1, it is used as an adverb to mark a future tense (and hence, can be synonymous with 當 [187 - 2]).Radical 41 (寸).Lesson 10Vocab 309
 楚	chǔ	The state of Chu.Chu was a particularly large state, centering around the modern province of Hubei 湖北.  It possessed a distinctively "southern" culture often at odds with the culture of the Yellow River plain.Radical 75 (木).Lesson 10Vocab 310
 王	wáng	wáng (1); wàng (2)1. King, prince. * 2. To take the throne, to declare oneself king, to rule as a king.Note that the rulers of 楚 had already "usurped" the title of king (see 4.1). They had been calling themselves "king" since 706 b.c.e. In imperial times, emperors generally granted the males of their family the title of 王; in such cases, it is customary to translate their titles as "prince" rather than "king."Radical 96 (玉).Lesson 10Vocab 311
@@ -384,7 +384,7 @@
 席	xí	Straw mat (for sitting), place, seat [at a banquet or other formal occasion].Radical 53 (广, "trailing hemp").Lesson 10Vocab 330
 避席	bì xí	To move backward on one's mat (out of politeness).This set term can be found before a description of someone speaking to a superior at a banquet or meeting; the speaker moves backward briefly, "avoiding his seat," in order to show respect for the addressee.Lesson 10Vocab 329a
 橘	jú	Mandarin orange [tree].Radical 75 (木).Lesson 10Vocab 331
-淮	huái	The Huai River.One of the major rivers of China, it flows parallel to and between the Yellow and Yangtze Rivers.Radical 85 (水).Lesson 10Vocab 332
+淮	Huái	The Huai River.One of the major rivers of China, it flows parallel to and between the Yellow and Yangtze Rivers.Radical 85 (水).Lesson 10Vocab 332
 南	nán	South; southern.Radical 24 (十).Lesson 10Vocab 333
 北	běi	North; northern.Radical 21 (匕, "spoon").Lesson 10Vocab 334
 枳	zhǐ	The zhi fruit (a kind of bitter, medicinal orange, with thick skin); the zhi tree.Radical 75 (木).Lesson 10Vocab 335
@@ -404,7 +404,7 @@
 // Rouzer/Lesson 11
 曹	cáo	1 . Cao. [a surname]* 2. [An informal plural suffix, usually added to the second person.]Radical 73 (曰).Lesson 11Vocab 346
 沫	mò	Froth, foam.Here, this character is a personal name.Radical 85 (水).Lesson 11Vocab 347
-曹沫	cáo mò	Cao Mo (a general of the state of 魯 ).Lesson 11Vocab 346a
+曹沫	Cáo Mò	Cao Mo (a general of the state of 魯 ).Lesson 11Vocab 346a
 勇	yǒng	Courage, bravery; courageous, brave.Radical 19 (力).Lesson 11Vocab 348
 力	lì	Strength, power, ability.Radical 19 (力).Lesson 11Vocab 349
 莊	zhuāng	1. Serious, grave. 2. Zhuang. [a surname]Here, this character is used as a posthumous title.Radical 140 (艸).Lesson 11Vocab 350
@@ -463,13 +463,13 @@
 六	liù	Six.Radical 12 (八).Lesson 12Vocab 393
 十	shí	Ten.Radical 24 (十).Lesson 12Vocab 394
 七	qī	Seven.Radical 1 (一).Lesson 12Vocab 395
-吳	wú	The state of Wu.This state was located in the Yangtze delta region. Originally evolving from a society not connected to the cultures of the Yellow River plain, 吳 gradually entered into the mainstream of Chinese history during the sixth century b.c.e. The personal names of its inhabitants (and the kings' names) are different from common northern Chinese names, perhaps reflecting their non-Chinese origins.Radical 30 (口).Lesson 12Vocab 396
+吳	Wú	The state of Wu.This state was located in the Yangtze delta region. Originally evolving from a society not connected to the cultures of the Yellow River plain, 吳 gradually entered into the mainstream of Chinese history during the sixth century b.c.e. The personal names of its inhabitants (and the kings' names) are different from common northern Chinese names, perhaps reflecting their non-Chinese origins.Radical 30 (口).Lesson 12Vocab 396
 專	zhuān	To monopolize; to focus on, to act single-mindedly.In this lesson's text, this character is used as a surname.Radical 41 (寸).Lesson 12Vocab 397
-專諸	zhuān zhū	Zhuan Zhu (name of a knight-assassin).Lesson 12Vocab 397a
+專諸	Zhuān Zhū	Zhuan Zhu (name of a knight-assassin).Lesson 12Vocab 397a
 堂	táng	Hall, reception hall.Although this character commonly has this meaning (and will occur in later lessons), here it is a place-name.Radical 32 (土).Lesson 12Vocab 398
 伍	wǔ	A squadron or group of five men.This character is a military term; however, in our lesson, it is merely a surname.Radical 9Lesson 12Vocab 399
 胥	xū	To assist, to aid.Here the character is part of a personal name.Radical 130 (肉).Lesson 12Vocab 400
-伍子胥	wǔ zǐ xū	Wu Zixu (name of a statesman and adviser).See the historical note 12.1 below. Note that 子胥 is his 字, "polite name" (for naming habits, see 12.3 below). His 名, "personal name," is 員 (and a prince of 吳 rudely refers to him by this name later in the lesson text).Lesson 12Vocab 399a
+伍子胥	Wǔ Zǐxū	Wu Zixu (name of a statesman and adviser).See the historical note 12.1 below. Note that 子胥 is his 字, "polite name" (for naming habits, see 12.3 below). His 名, "personal name," is 員 (and a prince of 吳 rudely refers to him by this name later in the lesson text).Lesson 12Vocab 399a
 僚	liáo	Companion, colleague.Here, this character is the name of a king of 吳 (r. 526--515 b.c.e.). Perhaps because the 吳 kings were considered slightly exotic or foreign, the 史記 refers to them in a different manner---吳王僚, "the king of Wu, Liao," rather than the more typical 吳僚王.Radical 9Lesson 12Vocab 401
 說	shuì	shuì (1); yuè (2); shuō (3)1. To persuade. * 2. To take pleasure in, to enjoy; to be happy. 3. Speech, discourse, story.The three major definitions of this character are all pronounced differently in modern Mandarin. Meaning #1 is used slightly differently in literary Chinese than in English, in that it represents an attempt being made to persuade, but not necessarily its success (in other words, it must often be translated as "tried to persuade," as in our lesson text here). In meaning #2, this character is being used for the more proper 悅 (748). Meaning #3 has occurred in the title of the text source for Unit 1, the Garden of Stories 說苑.Radical 149 (言).Lesson 12Vocab 402
 公子	gōng zǐ	Prince.Even though this term literally means "son of a duke," it came to apply to all princes in general.Lesson 12Vocab 104b
@@ -484,16 +484,16 @@
 外	wài	Outside, public, external, foreign.Note the expression 外事, "foreign affairs."Radical 36 (夕).Lesson 12Vocab 411
 進	jìn	To present, to give [usually to social superior]; to move forward, to approach.Partial synonym: 獻 (154).Radical 162 (辵).Lesson 12Vocab 412
 樊	fán	Bird cage; disorderly, messy.Here, this character is part of a name.Radical 75 (木).Lesson 12Vocab 413
-諸樊	zhū fán	Zhufan. [a personal name]Name of a king of 吳 (r. 560--548 b.c.e.).Lesson 12Vocab 253b
+諸樊	Zhūfán	Zhufan. [a personal name]Name of a king of 吳 (r. 560--548 b.c.e.).Lesson 12Vocab 253b
 弟	dì	Little brother.This character constrasts with 兄 (406).Radical 57 (弓).Lesson 12Vocab 414
 祭	jì	jì, zhàiTo worship, to offer sacrifices to; festival.Here, this character is part of a king's name.Radical 113 (示).Lesson 12Vocab 415
-餘祭	yú zhài	Yuzhai. [a personal name]Name of a king of 吳 (r. 547--531 b.c.e.).Lesson 12Vocab 301a
+餘祭	Yúzhài	Yuzhai. [a personal name]Name of a king of 吳 (r. 547--531 b.c.e.).Lesson 12Vocab 301a
 夷	yí	1. East, eastern direction; eastern barbarian tribes. 2. To massacre, to level to the ground.Here, this character is part of a king's name.Radical 37 (大).Lesson 12Vocab 416
 眛	mò	mò, mèiDim-sighted; poor vision.Here, this character is part of a king's name.Radical 109 (目).Lesson 12Vocab 417
-夷眛	yí mò	Yimo. [a personal name]Name of a king of 吳 (r. 530--527 b.c.e.).Lesson 12Vocab 416a
+夷眛	Yímò	Yimo. [a personal name]Name of a king of 吳 (r. 530--527 b.c.e.).Lesson 12Vocab 416a
 季	jì	1. Season; last (third) month of a season. 2. Youngest of three brothers (following 伯 [ 206 ] and 仲 [ 113 ]).Here, this character is part of a prince's name.Radical 39 (子).Lesson 12Vocab 418
 札	zhá	Thin wooden tablet for writing; letter, correspondence.Here, this character is part of a prince's name.Radical 75 (木).Lesson 12Vocab 419
-季子札	jì zǐ zhá	Jizi Zha. [a proper name]Name of a prince of 吳.Lesson 12Vocab 418a
+季子札	Jìzǐ Zhá	Jizi Zha. [a proper name]Name of a prince of 吳.Lesson 12Vocab 418a
 立	lì	1. To set up, to establish, to appoint, to place on the throne, to take the throne. * 2. To stand, to occupy. 3. Immediately.Radical 117 (立).Lesson 12Vocab 420
 太子	tài zǐ	Crown prince, heir apparent.In this lesson's text, it says that 諸樊 refused to appoint one of his own sons as heir.Lesson 12Vocab 214b
 傳	chuán	chuán (1); zhuàn (2)1. To pass along, to transmit. * 2. Transmission, tradition, biography.Meaning #2 was used by the 史記 to designate biographical accounts (usually of individuals), and hence, this character became the standard term for "biography."Radical 9 (人).Lesson 12Vocab 421
@@ -513,14 +513,14 @@
 春	chūn	Spring (the season).Radical 72 (日).Lesson 13Vocab 432
 喪	sàng	sàng (1); sāng (2)1. To lose; to die; to destroy. 2. To mourn; mourning. *Radical 30 (口).Lesson 13Vocab 433
 蓋	gài	1. Canopy, cover (usually for a carriage). 2. "No doubt," "probably." [particle introducing opinion]Here, the character is part of a name. Meaning #1, though common, does not occur in our texts. Meaning #2 will occur later.Radical 140 (艸).Lesson 13Vocab 434
-蓋餘	gài yú	Gaiyu. [a personal name]The younger brother of 僚.Lesson 13Vocab 434a
+蓋餘	Gàiyú	Gaiyu. [a personal name]The younger brother of 僚.Lesson 13Vocab 434a
 屬	shǔ	shǔ (1); zhǔ (2)1. Kind, class, category; to belong to, to be subordinate to, to be governed by. 2. To instruct, to direct, to exhort.Here, the character is part of a name.Radical 44 (尸).Lesson 13Vocab 435
 庸	yōng	1. Mediocre, common; hired labor; to work for hire. 2. Yong (a mountain range in Fujian).Here, the character is part of a person's name. Meaning #1, though common, does not occur in our texts. Meaning #2 will occur in Lesson 31.Radical 53 (广).Lesson 13Vocab 436
-屬庸	shǔ yōng	Shuyong. [a personal name]The younger brother of 僚.Lesson 13Vocab 435a
+屬庸	Shǔyōng	Shuyong. [a personal name]The younger brother of 僚.Lesson 13Vocab 435a
 潛	qián	Sunken, hidden, secret; secretly; to sink.Here, this character is the name for a place in the state of 楚.Radical 85 (水).Lesson 13Vocab 437
 延	yán	To extend, to stretch; to invite.Here, this character is part of a place-name. Although this character is fairly common in literary Chinese, it does not occur again in our texts.Radical 54 (廴).Lesson 13Vocab 438
 陵	líng	Mound, ridge, tomb mound.Here, this character is part of a place-name (and it only occurs in place-names in our texts).Radical 170 (阜).Lesson 13Vocab 439
-延陵	yán líng	Yanling. [a place-name]Name of the fief of 季子札 (418 a). Sometimes people are referred to by their place of origin or their fiefdom: "Jizi of Yanling."Lesson 13Vocab 438a
+延陵	Yánlíng	Yanling. [a place-name]Name of the fief of 季子札 (418 a). Sometimes people are referred to by their place of origin or their fiefdom: "Jizi of Yanling."Lesson 13Vocab 438a
 觀	guān	To observe, to watch, to contemplate.Radical 147 (見).Lesson 13Vocab 440
 發	fā	To issue, to send forth, to arise, to manifest, to open.Radical 105 (癶).Lesson 13Vocab 441
 路	lù	Path, road, route.This character is used less often than 道 (41) in abstract and philosophical contexts.Radical 157 (足).Lesson 13Vocab 442
@@ -566,25 +566,25 @@
 滅	miè	To destroy, to annihilate, to be destroyed.Partial synonym: 亡 (244).Radical 85 (水).Lesson 13Vocab 478
 闔	hé	Leaf of a door; to shut, to close.Here, this character is part of a king's name; it does not occur again in our texts.Radical 169 (門).Lesson 13Vocab 479
 閭	lǘ	Neighborhood (technically, of 25 families); village or neighborhood gate.Here, this character is part of a king's name; it only occurs in proper names in our texts.Radical 169 (門).Lesson 13Vocab 480
-闔閭	hé lǘ	Helü. [a personal name]Name of 光 upon taking the throne (r. 514--495 b.c.e.).Lesson 13Vocab 479a
+闔閭	Hélǘ	Helü. [a personal name]Name of 光 upon taking the throne (r. 514--495 b.c.e.).Lesson 13Vocab 479a
 封	fēng	To appoint, to grant a fief to; fiefdom.Radical 41 (寸).Lesson 13Vocab 481
 卿	qīng	Minister of state.Radical 26 (卩).Lesson 13Vocab 482
 
 // Rouzer/Lesson 14
 豫	yù	To get ready, to prepare; comfort; to be at ease.Here, this character is a surname.Radical 152 (豕, "swine," "pig").Lesson 14Vocab 483
 讓	ràng	ràng (1); rǎng (2)1. To demur to, to defer to, to give in to; to abdicate [the throne]. 2. To scold, to berate.Though this character appears here as part of a name, it is an important and common one.  In the first meaning, this term refers to a Confucian virtue: the ability to surrender one's own desires and needs for the sake of others. It frequently refers to a ruler abdicating his throne, especially (in certain famous cases) to a man more virtuous than himself. Meaning  #2, though quite common, does not occur in our texts.Radical 149 (言).Lesson 14Vocab 484
-豫讓	yù rǎng	Yu Rang. [a proper name]Name of a retainer-warrior.Lesson 14Vocab 483a
-范	fàn	Fan.One of the ruling clans of 晉. This character also became a fairly common surname.Radical 140 (艸).Lesson 14Vocab 485
+豫讓	Yù Rǎng	Yu Rang. [a proper name]Name of a retainer-warrior.Lesson 14Vocab 483a
+范	Fàn	Fan.One of the ruling clans of 晉. This character also became a fairly common surname.Radical 140 (艸).Lesson 14Vocab 485
 氏	shì	Clan, lineage.Radical 83 (氏).Lesson 14Vocab 486
-中行	zhōng háng	Zhonghang.One of the ruling clans of 晉. Note the special pronunciation of 行.Lesson 14Vocab 111a
+中行	Zhōngháng	Zhonghang.One of the ruling clans of 晉. Note the special pronunciation of 行.Lesson 14Vocab 111a
 智	zhì	Wise, resourceful, clever.Here, this character is the name of one of the clans of 晉.Radical 72 (日).Lesson 14Vocab 487
 智伯	zhì bó	The Earl of Zhi.Prominent general and leader of the 智 clan.Lesson 14Vocab 487a
 尊	zūn	To respect, to honor; respected, honored.Partial synonym: 貴 (81).Radical 41 (寸).Lesson 14Vocab 488
 寵	chǒng	Favor, love, patronage; to favor.Radical 40 (宀).Lesson 14Vocab 489
 襄	xiāng	To help, to assist; to achieve, to accomplish.This character appears most often as a surname or as a posthumous title for rulers and feudal lords (as is the case here).Radical 145 (衣).Lesson 14Vocab 490
 襄子	xiāng zǐ	Viscount Xiang.Leader of the 趙 clan and grandson of 趙簡子 (from Lesson 6).Lesson 14Vocab 490a
-韓	hán	Han.Name of a clan of 晉. Like 趙, this clan survived the partitioning of 晉 and became an independent state.Radical 178 (韋, "tanned leather").Lesson 14Vocab 491
-魏	wèi	Wei.Name of a clan of 晉. 魏 also survived the partition and became an independent state.Radical 194 (鬼, "spirit").Lesson 14Vocab 492
+韓	Hán	Han.Name of a clan of 晉. Like 趙, this clan survived the partitioning of 晉 and became an independent state.Radical 178 (韋, "tanned leather").Lesson 14Vocab 491
+魏	Wèi	Wei.Name of a clan of 晉. 魏 also survived the partition and became an independent state.Radical 194 (鬼, "spirit").Lesson 14Vocab 492
 合	hé	1. To bring together, to unite, to fuse. * 2. To close, to shut. 3. To be appropriate for, to fit in with.Radical 30 (口).Lesson 14Vocab 493
 最	zuì	Most, -est.This character is usually used to indicate the superlative degree.Radical 73 (曰).Lesson 14Vocab 494
 漆	qī	Paint, lacquer, varnish; to paint, to varnish.Buildings and other objects were often painted for preservation purposes.Radical 85Lesson 14Vocab 495
@@ -668,25 +668,25 @@
 涕	tì	To weep; tears.Technically, this character represents mucus flowing from the nose, but for obvious reasons very few English translators render it literally.Radical 85 (水).Lesson 15Vocab 562
 
 // Rouzer/Lesson 16
-軹	zhǐ	Zhi. [a place-name]Name of a town in 魏.Radical 159 (車).Lesson 16Vocab 563
-聶	niè	Nie. [a surname]Radical 128 (耳).Lesson 16Vocab 564
+軹	Zhǐ	Zhi. [a place-name]Name of a town in 魏.Radical 159 (車).Lesson 16Vocab 563
+聶	Niè	Nie. [a surname]Radical 128 (耳).Lesson 16Vocab 564
 政	zhèng	Government, administration, management.Here, this character is a personal name.Radical 66 (攵).Lesson 16Vocab 565
-聶政	niè zhèng	Nie Zheng (name of an assassin-retainer).Lesson 16Vocab 564a
+聶政	Niè Zhèng	Nie Zheng (name of an assassin-retainer).Lesson 16Vocab 564a
 井	jǐng	Well (for drawing water); village, village center.Radical 7 (二).Lesson 16Vocab 566
-深井	shēn jǐng	Deepwell (name of a town).Lesson 16Vocab 540a
+深井	Shēn Jǐng	Deepwell (name of a town).Lesson 16Vocab 540a
 姊	zǐ	Elder sister.Radical 38 (女).Lesson 16Vocab 567
 屠	tú	Butcher; to kill, to butcher, to put to the sword.Butchery was considered an "unclean" occupation in early China and hence, disgraceful.  This attitude strengthened after the arrival of Buddhism.Radical 44 (尸).Lesson 16Vocab 568
 久	jiǔ	Long time, for a long time.Note the use of a "dummy" 之 (compare 居頃之, Lesson 14, line 9).Radical 4 (丿).Lesson 16Vocab 569
-濮	pú	The Pu River.Located in modern Henan 河南.Radical 85 (水).Lesson 16Vocab 570
+濮	Pú	The Pu River.Located in modern Henan 河南.Radical 85 (水).Lesson 16Vocab 570
 陽	yáng	The yang principle (as opposed to 陰 [ 427 ]); sunlight, the sunlit side of something.You will find that 陽 is often used with the name of a river to indicate the name of a town. Because China is located in the northern hemisphere, sunlight falls from the south directly onto the northern banks of rivers, so 陽 is used to indicate the northern bank.  (With mountains, the opposite is true: 陽 is used for the southern side of a mountain, 陰 for the northern). Consequently, a town name like 濮陽 means "the northern bank of the Pu River."Radical 170 (阜).Lesson 16Vocab 571
-濮陽	pú yáng	Puyang. [a place-name]A town located in the state of 衛 (274).Lesson 16Vocab 570a
+濮陽	Púyáng	Puyang. [a place-name]A town located in the state of 衛 (274).Lesson 16Vocab 570a
 嚴	yán	Strict, severe; solemn, majestic.Here, this character is a surname.Radical 30 (口).Lesson 16Vocab 572
-嚴仲子	yán zhòng zǐ	Yan Zhongzi (a politician from 衛 who served the state of 韓 ).仲子 was his "polite" name, and it may have indicated his kinship position within his clan; his personal name was 遂.Lesson 16Vocab 572a
+嚴仲子	Yán Zhòngzǐ	Yan Zhongzi (a politician from 衛 who served the state of 韓 ).仲子 was his "polite" name, and it may have indicated his kinship position within his clan; his personal name was 遂.Lesson 16Vocab 572a
 哀	āi	To grieve, to mourn, to lament, to pity; sorrowful, lamentable.Radical 30 (口).Lesson 16Vocab 573
-哀侯	aī hóu	Marquis Ai (of 韓 ).Scholars agree that the 史記 has made a mistake here, and that the events described actually occurred during the reign of this ruler's grandfather, Marquis Liè 列侯 (r. 399--387 b.c.e.) Lesson 16Vocab 574
+哀侯	Aīhóu	Marquis Ai (of 韓 ).Scholars agree that the 史記 has made a mistake here, and that the events described actually occurred during the reign of this ruler's grandfather, Marquis Liè 列侯 (r. 399--387 b.c.e.) Lesson 16Vocab 574
 俠	xiá	Heroic, chivalrous.Here, 俠 is a surname. This character (which does not occur in its regular meaning in our texts) usually describes a forceful, physically strong man trained in the use of weapons who goes above the law to right wrongs. Sometimes viewed favorably, such men were also often seen as vigilantes or bullies. The 史記 dedicates a collective biography to them.Radical 9 (人).Lesson  a16"Vocab 
 累	lèi	Involvement, trouble; to pile up, to accumulate; accumulated; to burden, to weary.Here, this character is a personal name.Radical 120 (糸).Lesson 16Vocab 575
-俠累	xiá lèi	Xia Lei (a minister of the state of 韓 ).累 was his "polite" name; his personal name was Guǐ 傀.Lesson 16Vocab 574a
+俠累	Xiá Lèi	Xia Lei (a minister of the state of 韓 ).累 was his "polite" name; his personal name was Guǐ 傀.Lesson 16Vocab 574a
 隙	xì	Crack, fissure; grudge, quarrel, enmity, feud.Radical 170 (阜).Lesson 16Vocab 576
 恐	kǒng	To fear; fear.Radical 61 (心).Lesson 16Vocab 577
 游	yóu	To play, to stroll, to wander; to swim.In all except the last meaning, this character is used interchangeably with 遊 (287).Radical 85 (水).Lesson 16Vocab 578
@@ -819,12 +819,12 @@
 僇	lù	To kill, to massacre; to disgrace, to shame.The verb is read passively in this lesson's text.Radical 9 (人).Lesson 18Vocab 681
 
 // Rouzer/Lesson 19
-褒	bāo	The state of Bao.Radical 145 (衣).Lesson 19Vocab 682
-姒	sì	Si. [a surname]Hence, the name of the main character is actually "Si of Bao."Radical 38 (女).Lesson 19Vocab 683
+褒	Bāo	The state of Bao.Radical 145 (衣).Lesson 19Vocab 682
+姒	Sì	Si. [a surname]Hence, the name of the main character is actually "Si of Bao."Radical 38 (女).Lesson 19Vocab 683
 童	tóng	Child, prepubescent child, virgin.Radical 117 (立).Lesson 19Vocab 684
 周	zhōu	Zhou.The name of a dynasty (traditionally accepted dates 1122--255 b.c.e.).Radical 30 (口).Lesson 19Vocab 685
 幽	yōu	Hidden, mysterious; supernatural.Radical 52 (么, "small").Lesson 19Vocab 686
-幽王	yōu wáng	King You (of the Zhou; r. 781 -- 770 b.c.e. ).Lesson 19Vocab 686a
+幽王	Yōuwáng	King You (of the Zhou; r. 781 -- 770 b.c.e. ).Lesson 19Vocab 686a
 后	hòu	1. Empress, principal consort. * 2. House, clan, ruler. *The second group of meanings (house, clan, ruler) is rarer and more archaic, and it occurs in line 2 (夏后).Radical 30 (口).Lesson 19Vocab 687
 夏	xià	1. Xia (name of a largely legendary dynasty, early second millennium b.c.e. ). 2. Summer.Radical 35 (夊).Lesson 19Vocab 688
 神	shén	Spirit, god, divinity.Radical 113 (示).Lesson 19Vocab 689
@@ -840,7 +840,7 @@
 忽	hū	Suddenly, abruptly.Radical 61 (心).Lesson 19Vocab 699
 櫝	dú	Cabinet, closet.Radical 75 (木).Lesson 19Vocab 700
 郊	jiāo	Ceremony for offering sacrifices to Heaven and earth; altar or temple for such sacrifices.Because such altars were located outside the city walls (城), this character eventually was used to describe the suburban areas of a city.Radical 163 (邑, 阝).Lesson 19Vocab 701
-厲王	lì wáng	King Li (of the Zhou; r. 878 *--* 827 b.c.e. ).Lesson 19Vocab 515a
+厲王	Lìwáng	King Li (of the Zhou; r. 878 *--* 827 b.c.e. ).Lesson 19Vocab 515a
 末	mò	End, tip, latter part, unimportant part.This character is often used as the opposite of 本 (74), "root," "basics." Do not confuse it with 未 (302); the two cross-lines have different lengths in relation to each other.Radical 75Lesson 19Vocab 702
 婦	fù	Woman, wife.Compare this character to 妻 (192), which can only refer to a wife. Here, 婦人 is a general term for "women."Radical 38 (女).Lesson 19Vocab 703
 裸	luǒ	Bare, nude, naked; to strip off clothes.Radical 145 (衣).Lesson 19Vocab 704
@@ -867,16 +867,16 @@
 戮	lù	To execute, to kill, to slaughter.Sometimes this character is used interchangeably with 僇 (681). Note that in this case the use of 使 tells us that the king sends someone to do this.Radical 62 (戈).Lesson 19Vocab 721
 號	háo	háo (1); hào (2)1. To scream, to cry, to wail. * 2. To call, to give a name to. *Meaning #1 is used here, and meaning #2 is used further down. Partial synonym (meaning  \# 1 ): 呼 (644); partial synonyms (meaning \# 2 ): 曰 (120) , 謂 (252) .Radical 141 (虍).Lesson 19Vocab 722
 竄	cuàn	To escape, to flee, to go into hiding.Note that the character consists of "cave" and "rat."Radical 116 (穴).Lesson 19Vocab 723
-姁	xū	Xu (of Bao; the ruler of 褒 in the time of 幽王 ).Radical 38 (女).Lesson 19Vocab 724
+姁	Xū	Xu (of Bao; the ruler of 褒 in the time of 幽王 ).Radical 38 (女).Lesson 19Vocab 724
 獄	yù	Legal case; crime; prison.Radical 94 (犬).Lesson 19Vocab 725
 贖	shú	To redeem, to compensate for.Radical 154 (貝).Lesson 19Vocab 726
 嬖	bì	Sexual favorite (of a ruler).Here, this word is used causatively: "to make [someone] a sexual favorite."Radical 38Lesson 19Vocab 727
-伯服	bó fú	``{=html}[]{#index_split_013.html}  Bofu (son of 褒姒 ).Lesson 19Vocab 206c
+伯服	Bófú	Bofu (son of 褒姒 ).Lesson 19Vocab 206c
 申	shēn	To stretch, to extend.Here, this character is used as the name of a fiefdom.Radical 102 (田).Lesson 19Vocab 728
-申侯	shēn hóu	The Marquis of Shen.Lesson 19Vocab 728a
+申侯	Shēnhóu	The Marquis of Shen.Lesson 19Vocab 728a
 宜	yí	Suitable, appropriate.Here, the character is part of a name.Radical 40 (宀).Lesson 19Vocab 729
 臼	jiù	Mortar.Here, the character is part of a name.Radical 134 (臼).Lesson 19Vocab 730
-宜臼	yí jiù	Yijiu (the son of the former queen and 幽王 ).Note the prevalence of harem politics here. By removing the son of the daughter of 申侯  (the former queen) from the position of grand prince, the king alienates 申侯 and paves the way for the latter's revolt mentioned several lines later.Lesson 19Vocab 729a
+宜臼	Yíjiù	Yijiu (the son of the former queen and 幽王 ).Note the prevalence of harem politics here. By removing the son of the daughter of 申侯  (the former queen) from the position of grand prince, the king alienates 申侯 and paves the way for the latter's revolt mentioned several lines later.Lesson 19Vocab 729a
 惑	huò	To be confused, to be deluded; to be [sexually] infatuated with.Radical 61 (心).Lesson 19Vocab 731
 乘	chéng	chéng (1--2); shèng (3)1. To ride in a vehicle. * 2. To take advantage of [a situation]. 3. [Measure word for carriages.]Radical 4 (丿).Lesson 19Vocab 732
 卹	xù	To care about, to have pity on, to pay attention to.This is a variant character of the more common 恤.Radical 26 (卩).Lesson 19Vocab 733
@@ -907,13 +907,13 @@
 西夷	xī yí	Western "Yi" tribes (name of a barbarian group).Lesson 19Vocab 623a
 犬	quǎn	Dog.Radical 94 (犬).Lesson 19Vocab 755
 戎	róng	1. "Rong" (general name for "barbarian" tribes in the west). 2. Military affairs; soldiering.Radical 62 (戈).Lesson 19Vocab 756
-犬戎	quǎn róng	The "Dog Rong" tribes (name of a barbarian group).Lesson 19Vocab 755a
+犬戎	Quǎnróng	The "Dog Rong" tribes (name of a barbarian group).Lesson 19Vocab 755a
 徵	zhēng	To draft, to conscript, to order [someone to appear].Radical 60 (ㄔ).Lesson 19Vocab 757
 驪	lí	Black (refers to horses).Here, this character is the name of a mountain.Radical 187 (馬).Lesson 19Vocab 758
-驪山	lí shān	Mt. Li.Near the mountain now called 西安; 驪山 is also the site of the first 秦 emperor's tomb.Lesson 19Vocab 758a
+驪山	Líshān	Mt. Li.Near the mountain now called 西安; 驪山 is also the site of the first 秦 emperor's tomb.Lesson 19Vocab 758a
 虜	lǔ	To capture, to take prisoner; prisoner, captive.You will find that this character is also used as a pejorative term for "barbarian" enemies.Radical 141 (虍).Lesson 19Vocab 759
 賂	lù	Goods, wealth, treasures; bribes; to bribe.Radical 154 (貝).Lesson 19Vocab 760
-平王	píng wáng	King Ping (of the Zhou; r. 770 -- 719 b.c.e. ).Lesson 19Vocab 431a
+平王	Píngwáng	King Ping (of the Zhou; r. 770 -- 719 b.c.e. ).Lesson 19Vocab 431a
 詩	shī	Poetry; the Classic of Poetry 詩經 ; a poem from the Classic of Poetry .Lines from this classic are often quoted to ornament a story or illustrate a point.Radical 149 (言).Lesson 19Vocab 761
 云	yún	To say.Synonym: 曰 (120), although 云 is used more often for textual quotations.Radical 7 (二).Lesson 19Vocab 762
 赫	hè	Glorious, shining.Notice the poetic "reduplication" of the adjective in this lesson's text.Radical 155 (赤,Lesson 19Vocab 763
@@ -923,10 +923,10 @@
 祀	sì	Religious sacrifices; to sacrifice (usually to ancestors or the royal house).Radical 113 (示).Lesson 19Vocab 767
 
 // Rouzer/Lesson 20
-鄒	zōu	Zou (a small state near 魯 and 齊 ).Radical 163 (邑).Lesson 20Vocab 768
+鄒	Zōu	Zou (a small state near 魯 and 齊 ).Radical 163 (邑).Lesson 20Vocab 768
 孟	mèng	1. Beginning, initial (used to describe the first month of each season). 2. Meng. [a surname]*Radical 39 (子).Lesson 20Vocab 769
 軻	kē	Pair of wheels; axle tree.Here, this character is a personal name.Radical 159 (車).Lesson 20Vocab 770
-孟軻	mèng kē	Meng Ke (the philosopher Mencius 孟子 [ 372 -- 289 b.c.e. ]).Lesson 20Vocab 769a
+孟軻	Mèngkē	Meng Ke (the philosopher Mencius 孟子 [ 372 -- 289 b.c.e. ]).Lesson 20Vocab 769a
 舍	shè	shè (1); shě (2)1. Lodging, abode; to lodge at, to reside in. * 2. To reject, to cast aside, to throw away, to let go.With meaning #2 the word is often written as 捨.Radical 135 (舌).Lesson 20Vocab 771
 墓	mù	Tomb, grave mound.Radical 32 (土).Lesson 20Vocab 772
 嬉	xī	To enjoy, to be pleased; to play, to amuse oneself.Radical 38 (女).Lesson 20Vocab 773
@@ -966,7 +966,7 @@
 男	nán	Man, male; son.Radical 19 (力).Lesson 20Vocab 803
 墮	duò	1. To fall, to sink. 2. To become indolent, lazy, or careless. *The second group of meanings acts as a substitute for 惰.Radical 32 (土).Lesson 20Vocab 804
 勤	qín	To strive, to make an effort.Radical 19 (力).Lesson 20Vocab 805
-子思	zǐsī	Zisi. (one of Confucius' most important disciples)Lesson 20Vocab 29a
+子思	Zǐsī	Zisi. (one of Confucius' most important disciples)Lesson 20Vocab 29a
 
 // Rouzer/Lesson 21
 娶	qǔ	To marry (used of men).This is the male equivalent of 嫁 (664).Radical 38 (女).Lesson 21Vocab 806
@@ -1005,14 +1005,14 @@
 閨	guī	Women's quarters.Radical 169 (門).Lesson 21Vocab 834
 饋	kuì	Provisions, food; to offer a present [often of food].Radical 184 (食).Lesson 21Vocab 835
 无	wú	1. To not have; nonpossession. * 2. Nonexistence, nothingness; to not exist. 3. "Don't . . . ." [negative imperative]This character is used interchangeably with 無 (36). Early texts tend to show propensities for using one or the other---for example, the 莊子 (Lessons 33--40) tends to use 无.Radical 71 (无).Lesson 21Vocab 836
-攸	yōu	[Archaic version of 所 .]Radical 66 (攵).Lesson 21Vocab 837
+攸	yōu	[Archaic version of 所.]Radical 66 (攵).Lesson 21Vocab 837
 儀	yí	Ornament, decoration; ceremony; ritual regalia.Radical 9 (人).Lesson 21Vocab 838
 惟	wéi	Only.This character substitutes for the more proper 唯 (750).Radical 61 (心).Lesson 21Vocab 839
 議	yì	To deliberate; deliberation, matter for deliberation, concern.Radical 149 (言).Lesson 21Vocab 840
 制	zhì	To determine, to decide; to regulate, to govern.Radical 18 (刀).Lesson 21Vocab 841
 成人	chéng rén	Adult, grown-up.Lesson 21Vocab 77a
 載	zài	1. [Archaic particle, roughly equivalent to 則 .]* 2. To carry, to transport.Meaning #2, though the most common meaning for this character, does not occur in our texts.Radical 159 (車).Lesson 21Vocab 842
-匪	fěi	[Archaic version of 非 .]Radical 22 (匚, "box," "basket").Lesson 21Vocab 843
+匪	fěi	[Archaic version of 非.]Radical 22 (匚, "box," "basket").Lesson 21Vocab 843
 伊	yī	[Vague, archaic, third person pronoun.]This character is one of the exceptions to the general rule that literary Chinese avoids a third person subject pronoun.Radical 9 (人).Lesson 21Vocab 844
 教	jiào	To teach, to instruct; teachings, doctrine.Radical 66Lesson 21Vocab 845
 擇	zé	To select, to pick.Radical 64 (手).Lesson 21Vocab 846
@@ -1023,7 +1023,7 @@
 
 // Rouzer/Lesson 22
 梁	liáng	1. The state of Wèi 魏 (alternative name). * 2. Beam, rafter. 3. Bridge.Radical 75 (木).Lesson 22Vocab 851
-惠王	huì wáng	King Hui (of Liang/Wei; 370--319 b.c.e. ).Lesson 22Vocab 65b
+惠王	Huìwáng	King Hui (of Liang/Wei; 370--319 b.c.e. ).Lesson 22Vocab 65b
 叟	sǒu	Old man, venerable elder.Here, this character is used as a polite second person reference.Radical 29 (又).Lesson 22Vocab 852
 大夫	dà fū	Court gentleman; court aristocracy.Lesson 22Vocab 105b
 庶	shù	Commoners, peasants.Consequently, 庶人 also means "commoners," as distinguished from 王, 大夫, and 士.Radical 53 (广).Lesson 22Vocab 853
@@ -1037,11 +1037,11 @@
 
 // Rouzer/Lesson 23
 河	hé	River.This character is a northern term for "river," as opposed to 江, a southern term. By itself, 河 often refers to the Yellow River 黃河, just as 江 (1181) by itself can refer to the Yangtze 長江.Radical 85 (水).Lesson 23Vocab 860
-河內	hé nèi	Henei (lit., "within [i.e., this side of] the Yellow River"; name of a province of 魏 ).Lesson 23Vocab 860a
+河內	Hénèi	Henei (lit., "within [i.e., this side of] the Yellow River"; name of a province of 魏 ).Lesson 23Vocab 860a
 凶	xiōng	Disaster; famine; inauspicious.Radical 17 (凵).Lesson 23Vocab 861
 移	yí	To move, to transfer.Radical 115 (禾).Lesson 23Vocab 862
 東	dōng	East.Radical 75 (木).Lesson 23Vocab 863
-河東	hé dōng	Hedong (lit., "east of the Yellow River"; name of a province of 魏 ).Lesson 23Vocab 860b
+河東	Hédōng	Hedong (lit., "east of the Yellow River"; name of a province of 魏 ).Lesson 23Vocab 860b
 粟	sù	Grain.Radical 119 (米).Lesson 23Vocab 864
 喻	yù	Metaphor, parable, analogy; to make an analogy, to illustrate with a story.Radical 30 (口).Lesson 23Vocab 865
 填	tián	To fill up, to add in.Here, however, this character is used for its sound value in the following term.Radical 32Lesson 23Vocab 866
@@ -1087,7 +1087,7 @@
 餓	è	Hungry, starving.This character has a stronger meaning in literary Chinese than it does in modern Mandarin.Radical 184 (食).Lesson 23Vocab 903
 殍	piǎo	To die of hunger; corpse of one who has died of hunger.Radical 78 (歹).Lesson 23Vocab 904
 歲	suì	1. Harvest. * 2. Year [often of age].The agricultural meaning is primary (and is used here), but the second, derived meaning is probably more common. Note that this character is not limited in literary Chinese to referring to "year of life" as it is in modern Mandarin.Radical 77 (止).Lesson 23Vocab 905
-襄王	xiāng wáng	King Xiang (of Liang; r. 318 -- 296 B.c.e.).Lesson 23Vocab 490b
+襄王	Xiāngwáng	King Xiang (of Liang; r. 318 -- 296 B.c.e.).Lesson 23Vocab 490b
 
 // Rouzer/Lesson 24
 惡	wū	wū (1); wù (2); è (3)1. How, what (used like 何 [ 184 ] or 安 [ 620 ]). * 2. To hate, to loathe. 3. Evil, bad.Radical 61 (心).Lesson 24Vocab 906
@@ -1109,18 +1109,18 @@
 人牧	rén mù	Ruler (figurative: "herdsman of men").Lesson 24Vocab 8a
 引	yǐn	To stretch, to stretch out; to pull, to pull toward one; to lead, to direct, to steer [a carriage].Radical 57 (弓).Lesson 24Vocab 920
 領	lǐng	Neck.Radical 181 (頁).Lesson 24Vocab 921
-齊宣王	qí xuān wáng	King Xuan of Qi (r. 319--301 b.c.e. ).Lesson 24Vocab 102b
+齊宣王	Qí Xuānwáng	King Xuan of Qi (r. 319--301 b.c.e. ).Lesson 24Vocab 102b
 
 // Rouzer/Lesson 25
 文	wén	1. Literary; literature. 2. Culture; civil society. 3. Pattern, ornament.Here, this character is the posthumous title of a duke. Though it is an extremely common character, it does not occur outside of names in our texts.Radical 65 (文).Lesson 25Vocab 922
 晉文 (公)	jìn wén (gōng)	Duke Wen of Jin (r. 636 -- 628 B.c.e.)Lesson 25Vocab 262a
 尼	ní	To obstruct, to block.This character is fairly rare, and it later comes to be used as the sinicized Sanskrit word for  "nun." Here, it is part of a personal name.Radical 44 (尸).Lesson 25Vocab 923
-仲尼	zhòng ní	Zhongni (polite name of Confucius 孔子 ).Lesson 25Vocab 113b
+仲尼	Zhòngní	Zhongni (polite name of Confucius 孔子 ).Lesson 25Vocab 113b
 保	bǎo	To protect, to preserve, to look after.Radical 9 (人).Lesson 25Vocab 924
 何由	hé yóu	Because of what? [idiomatic inversion]This phrase is synonymous with 奚由 (155 b).Lesson 25Vocab 184b
 胡	hú	Hu (general name for "barbarian" tribes to the north).Here, this character is a surname.Radical 130 (肉).Lesson 25Vocab 925
 齕	hé	To gnaw.Here, this character is a personal name.Radical 211 (齒).Lesson 25Vocab 926
-胡齕	hú hé	Hu He (a courtier of the king).Lesson 25Vocab 925a
+胡齕	Hú Hé	Hu He (a courtier of the king).Lesson 25Vocab 925a
 牽	qiān	To drag, to lead by a rope.Radical 93 (牛).Lesson 25Vocab 927
 牛	niú	Cow, steer, ox.Radical 93 (牛).Lesson 25Vocab 928
 釁	xìn	To smear blood [on something] in an act of ritual consecration.Radical 164 (酉).Lesson 25Vocab 929
@@ -1184,7 +1184,7 @@
 
 // Rouzer/Lesson 27
 蒞	lì	To rule over, to control.Radical 140 (艸).Lesson 27Vocab 973
-中國	zhōng guó	The central states.This term does not mean "China" yet.Lesson 27Vocab 111b
+中國	zhōngguó	The central states.This term does not mean "China" yet.Lesson 27Vocab 111b
 撫	fǔ	To stroke, to pat; to pacify, to soothe.This verb is frequently used as a euphemism for the suppression of "barbarian" peoples.Radical 64 (手).Lesson 27Vocab 974
 四夷	sì yí	The barbarian tribes in all four directions (general term for barbarian tribes on all sides).Lesson 27Vocab 452b
 緣	yuán	To follow along, to climb.Radical 120 (糸).Lesson 27Vocab 975
@@ -1250,21 +1250,21 @@
 宮室	gōngshì	Mansion.Lesson 29Vocab 459a
 
 // Rouzer/Lesson 30
-滕	téng	The state of Teng.滕 was a small state on the border of 齊 that was in constant danger of invasion and extermination.Radical 130 (肉).Lesson 30Vocab 1021
-文公	wén gōng	Duke Wen (of Teng).Lesson 30Vocab 922a
+滕	Téng	The state of Teng.滕 was a small state on the border of 齊 that was in constant danger of invasion and extermination.Radical 130 (肉).Lesson 30Vocab 1021
+文公	Wéngōng	Duke Wen (of Teng).Lesson 30Vocab 922a
 竭	jié	To devote, to put forth effort, to exhaust.Partial synonym: 盡 (235).Radical 117 (立).Lesson 30Vocab 1022
 昔	xí	The past; in the past.Radical 72 (日).Lesson 30Vocab 1023
-大王	tài wáng	King Tai (one of the ancestors of the 周 royal house).Though the name is written 大, here the character is actually an early form of 太.Lesson 30Vocab 105c
-邠	bīn	Bin. [a place-name]Name of an ancient land, the original home of the 周; located in modern Shaanxi 陜西.Radical 163 (邑).Lesson 30Vocab 1024
-狄	dí	Di.Name of a Western barbarian tribe.Radical 94 (犬).Lesson 30Vocab 1025
+大王	Tàiwáng	King Tai (one of the ancestors of the 周 royal house).Though the name is written 大, here the character is actually an early form of 太.Lesson 30Vocab 105c
+邠	Bīn	Bin. [a place-name]Name of an ancient land, the original home of the 周; located in modern Shaanxi 陜西.Radical 163 (邑).Lesson 30Vocab 1024
+狄	Dí	Di.Name of a Western barbarian tribe.Radical 94 (犬).Lesson 30Vocab 1025
 珠	zhū	Pearl; jewel.Radical 96 (玉).Lesson 30Vocab 1026
 玉	yù	Jade.Radical 96 (玉).Lesson 30Vocab 1027
 耆	qí	Old (but not elderly), in one's sixties.Radical 125 (老).Lesson 30Vocab 1028
 二三子	èr sān zǐ	My followers, my disciples.Literally, "[my] two or three children"---ever since Confucius used this term affectionately when speaking to his closest followers, it has been a cliché, and it need not be limited to only two or three people.Lesson 30Vocab 324b
 踰	yú	To cross, to pass over.Radical 157 (足).Lesson 30Vocab 1029
-梁山	liáng shān	Mt. Liang.Lesson 30Vocab 851a
+梁山	Liángshān	Mt. Liang.Lesson 30Vocab 851a
 岐	qí	Mountain path.Here, this character is the name of a mountain.Radical 46 (山).Lesson 30Vocab 1030
-岐山	qí shān	Mt. Qi.Lesson 30Vocab 1030a
+岐山	Qíshān	Mt. Qi.Lesson 30Vocab 1030a
 守	shǒu	To guard, to keep, to defend.Radical 40 (宀).Lesson 30Vocab 1031
 世守	shì shǒu	To preserve for generations; to guard for generations.Lesson 30Vocab 227b
 效	xiào	To devote, to put an effort into, to try one's best.Radical 66 (攵).Lesson 30Vocab 1032
@@ -1272,7 +1272,7 @@
 
 // Rouzer/Lesson 31
 越	yuè	Yue (general name given to a coastal region of southeast China; previously a state name).Radical 156 (走).Lesson 31Vocab 1033
-閩	mǐn	Min.Name of a section of 越, this character is now often used as a poetic term for Fujian 福建  province.Radical 169 (門).Lesson 31Vocab 1034
+閩	Mǐn	Min.Name of a section of 越, this character is now often used as a poetic term for Fujian 福建  province.Radical 169 (門).Lesson 31Vocab 1034
 嶺	lǐng	Peak, mountain range.Radical 46 (山).Lesson 31Vocab 1035
 蛇	shé	Snake, serpent.Radical 142 (虫).Lesson 31Vocab 1036
 八	bā	Eight.Radical 12 (八).Lesson 31Vocab 1037
@@ -1280,7 +1280,7 @@
 土俗	tǔ sú	The local population; popular sentiment.Although in this lesson's text the term is obviously meant to refer to the local populace, the compound is very close in meaning to 世俗 (227 a, Lesson 28).Lesson 31Vocab 341a
 常	cháng	1. Always, invariably. * 2. Constancy; constant rule.Note: The literary Chinese meaning of this character is slightly different from its modern Mandarin meaning, "often."Radical 50 (巾).Lesson 31Vocab 1039
 冶	yě	To smelt, to fuse.Here, this character is used in a place-name.Radical 15 (冫, "ice").Lesson 31Vocab 1040
-東冶	dōng yě	``{=html}[]{#index_split_014.html}  Dongye (name of a district).Lesson 31Vocab 863a
+東冶	Dōngyě	Dongye (name of a district).Lesson 31Vocab 863a
 都	dū	City, town, capital.Radical 163 (阝).Lesson 31Vocab 1041
 尉	wèi	Commandant, commander, colonel.Radical 41 (寸).Lesson 31Vocab 1042
 屬城	shǔ chéng	Municipal.The meaning of 屬 here is 435 - 1. In bureaucratic language this character can be prefixed to administrative units to indicate the scope of a public office.Lesson 31Vocab 435b
@@ -1301,14 +1301,14 @@
 預	yù	To prepare, to make ready.Radical 181 (頁).Lesson 31Vocab 1054
 募	mù	To draft, to conscript.Radical 19 (力).Lesson 31Vocab 1055
 索	suǒ	To search, to look for.Radical 120 (糸).Lesson 31Vocab 1056
-將樂	jiāng lè	Jiangle (name of a county).Lesson 31Vocab 309a
+將樂	Jiānglè	Jiangle (name of a county).Lesson 31Vocab 309a
 李	lǐ	1. Plum. 2. Li. [a surname]*Radical 75 (木).Lesson 31Vocab 1057
 誕	dàn	1. Birth. 2. Preposterous, ridiculous.Here, this character is a personal name.Radical 149 (言).Lesson 31Vocab 1058
-李誕	lǐ dàn	Li Dan. [a proper name]Radical 75 (木).Lesson 31Vocab 1057a
+李誕	Lǐ Dàn	Li Dan. [a proper name]Radical 75 (木).Lesson 31Vocab 1057a
 寄	jì	To send; to lodge, to stay temporarily.Here, this character is a person's name.Radical 40 (宀).Lesson 31Vocab 1059
 緹	tí	A kind of light-red silk.Here, this character is part of a person's name.Radical 120 (糸).Lesson 31Vocab 1060
 萦	yíng	To wind around, to coil.This character is a variant of 縈, and it is used here as part of a person's name.Radical 120Lesson 31Vocab 1061
-緹萦	tí yíng	Tiying (name of a filial girl from the Hàn 漢 dynasty).This girl's full name was Chúnyú Tíyíng 淳于緹萦. In the second century b.c.e., when her parents were convicted of a crime, she offered herself as a slave to redeem them. The emperor felt sorry for her and freed her parents.Radical 120 (糸).Lesson 31Vocab 1060a
+緹萦	Tíyíng	Tiying (name of a filial girl from the Hàn 漢 dynasty).This girl's full name was Chúnyú Tíyíng 淳于緹萦. In the second century b.c.e., when her parents were convicted of a crime, she offered herself as a slave to redeem them. The emperor felt sorry for her and freed her parents.Radical 120 (糸).Lesson 31Vocab 1060a
 濟	jì	To rescue, to assist.Radical 85 (水).Lesson 31Vocab 1062
 早	zǎo	Early; morning.Radical 72 (日).Lesson 31Vocab 1063
 錢	qián	Copper cash.Lesson 31Vocab 1064
@@ -1367,16 +1367,16 @@
 鞭	biān	Horse whip, riding crop.Radical 177 (革).Lesson 32Vocab 1111
 娘	niáng	, lang Mother [informal, colloquial]; girl, woman.Radical 38 (女).Lesson 32Vocab 1112
 暮	mù	Dusk, twilight; to grow late; late.Radical 72 (日).Lesson 32Vocab 1113
-黃河	huáng hé	The Yellow River.Lesson 32Vocab 582a
+黃河	Huáng Hé	The Yellow River.Lesson 32Vocab 582a
 邊	biān	Side; beside.Radical 162 (辵).Lesson 32Vocab 1114
 喚	huàn	To call to, to summon.Radical 30 (口).Lesson 32Vocab 1115
 但	dàn	1. Only. * 2. But, however.The first meaning is more typical of literary Chinese, but the second meaning can be found as well, especially in more colloquial writing.Radical 9 (人).Lesson 32Vocab 1116
 鳴	míng	To sing, to chirp, to make noise, to ring.As you can see from the radical, this character originally referred to the noises made by birds, but it can apply to anything that makes noise.Radical 196 (鳥).Lesson 32Vocab 1117
 濺	jiàn	To splash; [descriptive of water splashing].Radical 85 (水).Lesson 32Vocab 1118
 黑	hēi	Black.Radical 203 (黑).Lesson 32Vocab 1119
-黑山	hēi shān	Mt. Black.This mountain is located along what was China's northeastern frontier.Lesson 32Vocab 1119a
-燕	yān	Yan.Name of a state in modern Hebei 河北 province; it also becomes the general name for the area.Radical 86 (火).Lesson 32Vocab 1120
-燕山	yān shān	The Yan Mountains.A range of mountains located along what was China's northeastern frontier.Lesson 32Vocab 1120a
+黑山	Hēishān	Mt. Black.This mountain is located along what was China's northeastern frontier.Lesson 32Vocab 1119a
+燕	Yān	Yan.Name of a state in modern Hebei 河北 province; it also becomes the general name for the area.Radical 86 (火).Lesson 32Vocab 1120
+燕山	Yānshān	The Yan Mountains.A range of mountains located along what was China's northeastern frontier.Lesson 32Vocab 1120a
 啾	jiū	[Onomatopoeic for the noises made by birds, babies, or animals.]This term could mean the whinnying of enemy horses; however, in poetry it is applied more often to the twittering of birds, and hence, it is likely that here it refers to the seemingly  "nonsensical" sounds of an alien language. Compare the English word "barbarian," derived from a term of the ancient Greeks, who thought foreigners made a "barbar" noise when they talked.Radical 30 (口).Lesson 32Vocab 1121
 關	guān	Mountain pass; customs barrier; border post.Radical 169 (門).Lesson 32Vocab 1122
 飛	fēi	To fly.Radical 183 (飛).Lesson 32Vocab 1123
@@ -1426,7 +1426,7 @@
 雌	cī	Female (of a species).Whereas 雄 (1154) is quite often used figuratively (bold, strong, forceful, etc.), 雌 tends to be used only as a technical indication of female gender or sex.Radical 172 (隹).Lesson 32Vocab 1158
 迷	mí	To wander, to be lost.Radical 162 (辵).Lesson 32Vocab 1159
 雙	shuāng	Pair, couple.Radical 172 (隹).Lesson 32Vocab 1160
-莊子	zhuāng zǐ	Zhuangzi (the philosopher).Lesson 32Vocab 350c
+莊子	Zhuāngzǐ	Zhuangzi (the philosopher).Lesson 32Vocab 350c
 
 // Rouzer/Lesson 33
 川	chuān	Stream.Radical 47 (川).Lesson 33Vocab 1161
@@ -1435,7 +1435,7 @@
 渚	zhǔ	Islet, sandbar.Radical 85 (水).Lesson 33Vocab 1164
 崖	yaí	Cliff, high bank; wall; limit, border, boundary.Radical 46 (山).Lesson 33Vocab 1165
 辯	biàn	To distinguish, to make out; debate, discussion.This character is often used interchangeably with 辨 (1020). The presence of the 言 element here indicates that this word is used more regularly to mean "to make distinctions in speech"---that is, "to argue," "to debate."Radical 160 (辛).Lesson 33Vocab 1166
-河伯	hé bó	"River Earl" (god of the Yellow River).Lesson 33Vocab 858c
+河伯	Hébó	"River Earl" (god of the Yellow River).Lesson 33Vocab 858c
 旋	xuán	To spin, to turn, to revolve.Radical 70 (方).Lesson 33Vocab 1167
 面目	miàn mù	Face.Lesson 33Vocab 381a
 洋	yáng	Ocean, sea, vast stretch of water.Radical 85 (水).Lesson 33Vocab 1168
@@ -1463,12 +1463,12 @@
 稊	tí	Tare (a kind of wild grass that produces an edible grain).Radical 115 (禾).Lesson 33Vocab 1185
 倉	cāng	Storehouse, granary.Radical 9 (人).Lesson 33Vocab 1186
 州	zhōu	Province, district.Radical 47 (川).Lesson 33Vocab 1187
-九州	jiǔ zhōu	The Nine Provinces (i.e., all of China).Lesson 33Vocab 430a
+九州	Jiǔzhōu	The Nine Provinces (i.e., all of China).Lesson 33Vocab 430a
 舟	zhōu	Boat.Radical 137 (舟).Lesson 33Vocab 1188
 通	tōng	1. To pass through, to have access to, to communicate with. * 2. To be successful; success. 3. Unity.Radical 162 (辵).Lesson 33Vocab 1189
 豪	háo	1. Hair. * 2. Martial, brave, heroic.Meaning #1, used here, is an error for 毫 (948).Radical 152 (豕).Lesson 33Vocab 1190
 帝	dì	Deity; supreme deity; emperor.In the pre-imperial period, this character could be applied to ancient sagely rulers (see 五帝  below). However, it did not become a set term for an earthly ruler until the establishment of the 秦 empire.Radical 50 (巾).Lesson 33Vocab 1191
-五帝	wǔ dì	The Five Emperors.Five legendary rulers who are credited as the founders of civilization. The list varies depending on the authority citing the group, but Yáo 堯 and Shùn 舜 are always included.Lesson 33Vocab 827b
+五帝	Wǔ Dì	The Five Emperors.Five legendary rulers who are credited as the founders of civilization. The list varies depending on the authority citing the group, but Yáo 堯 and Shùn 舜 are always included.Lesson 33Vocab 827b
 三王	sān wáng	The Three Kings.The founders of the 夏, 商, and 周 dynasties.Lesson 33Vocab 260a
 任	rèn	Responsible; to take responsibility; to entrust; to hold an office; duty, task.Radical 9 (人).Lesson 33Vocab 1192
 勞	láo	To toil at, to make an effort.Radical 19 (力).Lesson 33Vocab 1193
@@ -1510,22 +1510,22 @@
 丘	qiū	Hill.Radical 1 (一).Lesson 35Vocab 1222
 差數	chā shǔ	Calculation (lit., "counting") of difference.Lesson 35Vocab 1221a
 趣	qù	Preference, bias, tendency; interesting, amusing, pleasant.Radical 156 (走).Lesson 35Vocab 1223
-堯	yáo	Emperor Yao.A legendary sage-king of ancient times.Radical 32 (土).Lesson 35Vocab 1224
-桀	jié	[King] Jie.Wicked last ruler of the 夏 dynasty.Radical 75 (木).Lesson 35Vocab 1225
+堯	Yáo	Emperor Yao.A legendary sage-king of ancient times.Radical 32 (土).Lesson 35Vocab 1224
+桀	Jié	[King] Jie.Wicked last ruler of the 夏 dynasty.Radical 75 (木).Lesson 35Vocab 1225
 操	cāo	To grasp, to hold.Radical 64 (手).Lesson 35Vocab 1226
 趣操	qù cāo	The selection (lit., "grasping") of preferences.Lesson 35Vocab 1223a
-舜	shùn	[Emperor] Shun.Virtuous successor to 堯.Radical 136 (舛).Lesson 35Vocab 1227
-噲	kuaì	Kuai. [a proper name]A ruler of 燕; he surrendered the throne to 之 with disastrous results. See 35.7 below.Radical 30 (口).Lesson 35Vocab 1228
+舜	Shùn	[Emperor] Shun.Virtuous successor to 堯.Radical 136 (舛).Lesson 35Vocab 1227
+噲	Kuaì	Kuai. [a proper name]A ruler of 燕; he surrendered the throne to 之 with disastrous results. See 35.7 below.Radical 30 (口).Lesson 35Vocab 1228
 武	wǔ	1. [King] Wu (virtuous founder of the 周 dynasty). * 2. Military, martial.Many would consider 武's father, King Wén 文, the true founder, but 武 was the leader who actually overthrew the 商 dynasty.Radical 77 (止).Lesson 35Vocab 1229
 白公	bó gōng	Lord Bo.A nobleman who revolted against the King of 楚 and was defeated. Note: there is a tradition in Mandarin of reading the character 白 as bó when it is a part of a name; consult 2.7.Lesson 35Vocab 897a
 麗	lì	1. Beautiful, lovely. 2. Rafter. *This character is used here in meaning #2, in which it substitutes for 欐.Radical 198 (鹿).Lesson 35Vocab 1230
 衝	chōng	To strike, to hit, to pound.Radical 144 (行).Lesson 35Vocab 1231
 窒	zhì	To stop up, to block.Radical 116 (穴).Lesson 35Vocab 1232
 騏	qí	Dark blue horse.Here, this character is part of a horse's name.Radical 187 (馬).Lesson 35Vocab 1233
-騏驥	qí jì	Qiji. [a proper name]This horse was mentioned in Lesson 7 by an abbreviated name (驥; 236). He is also famous for being one of the eight horses that King Mù 穆 of the 周 employed during his legendary travels to the West.Radical 187 (馬).Lesson 35Vocab 1233a
+騏驥	Qíjì	Qiji. [a proper name]This horse was mentioned in Lesson 7 by an abbreviated name (驥; 236). He is also famous for being one of the eight horses that King Mù 穆 of the 周 employed during his legendary travels to the West.Radical 187 (馬).Lesson 35Vocab 1233a
 驊	huá	(Term for a good horse).Here, this character is used in the name of a horse.Radical 187 (馬).Lesson 35Vocab 1234
 騮	liú	(Term for a good horse).Here, this character is used in the name of a horse.Radical 187 (馬).Lesson 35Vocab 1235
-驊騮	huá líu	Hualiu. [a proper name]Another of 穆王's horses.Radical 187 (馬).Lesson 35Vocab 1234a
+驊騮	Huálíu	Hualiu. [a proper name]Another of 穆王's horses.Radical 187 (馬).Lesson 35Vocab 1234a
 捕	bǔ	To catch, to apprehend.Radical 64 (手).Lesson 35Vocab 1236
 鼠	shǔ	Rat, mouse.Radical 208 (鼠).Lesson 35Vocab 1237
 狸	lí	Badger.Though this character is used in the modern Chinese compound for "fox" 狐狸 (so that some readers mistake it for such in this passage), it here refers to the Chinese badger---an animal somewhat resembling the North American raccoon in appearance and behavior. It is a close relative of the Japanese tanuki, which is written with the same character.Radical 94 (犬).Lesson 35Vocab 1238
@@ -1594,12 +1594,12 @@
 蜚	fēi	To fly.This character is a nonstandard version of 飛 (1123), used here in a causative sense.Radical 142 (虫).Lesson 37Vocab 1289
 
 // Rouzer/Lesson 38
-匡	kuāng	Kuang. [a place-name]Name of a territory, part of 宋.Radical 22 (匚).Lesson 38Vocab 1290
-宋	sòng	The state of Song.Name of an early Chinese state, located just north of 楚.Radical 40 (宀).Lesson 38Vocab 1291
+匡	Kuāng	Kuang. [a place-name]Name of a territory, part of 宋.Radical 22 (匚).Lesson 38Vocab 1290
+宋	Sòng	The state of Song.Name of an early Chinese state, located just north of 楚.Radical 40 (宀).Lesson 38Vocab 1291
 匝	zā	To go around; a surrounding circle.Radical 22 (匚).Lesson 38Vocab 1292
 絃	xián	String; a stringed instrument.Here, this character is used as a verb: "to play an instrument."Radical 120 (糸).Lesson 38Vocab 1293
 惙	chuò	1. To be grieved, to be distraught. 2. To stop. *Here, meaning #2 is a substitution for 輟.Radical 61 (心).Lesson 38Vocab 1294
-子路	zǐ lù	Zilu.One of 孔子's most famous disciples; his full name was Zhòng Yóu 仲由 and his polite name was 子路. Note that 孔子 later addresses him by his personal name.Lesson 38Vocab 29b
+子路	Zǐ Lù	Zilu.One of 孔子's most famous disciples; his full name was Zhòng Yóu 仲由 and his polite name was 子路. Note that 孔子 later addresses him by his personal name.Lesson 38Vocab 29b
 娛	yú	Pleasure, enjoyment; to enjoy; to be happy.Radical 38 (女).Lesson 38Vocab 1295
 諱	huì	To avoid, to seek to avoid.Radical 149 (言).Lesson 38Vocab 1296
 紂	zhòu	[King] Zhou.Wicked last ruler of the 商 dynasty.Radical 120 (糸).Lesson 38Vocab 1297
@@ -1614,7 +1614,7 @@
 
 // Rouzer/Lesson 39
 孫	sūn	Grandson, grandchild.Here, the character is part of a two-character surname, 公孫, "grandson of the duke."  This is typical of some early surnames, which seem to have been granted to relatives of royal families once they were no longer eligible to inherit noble positions.Radical 39 (子).Lesson 39Vocab 1304
-公孫龍	gōng sūn lóng	Gongsun Long.Name of a prominent logician and philosopher. The logicians, like the Sophists in ancient Greece, were famous for being more interested in the technical side of argumentation and persuasion than in uncovering philosophical wisdom. 莊子 was influenced by their love of paradox, but he was also critical of them; he felt that their manipulation of language demonstrated that it was ultimately inadequate as a tool to convey reality, and that ultimate reality lay beyond language. 公孫龍 became most notorious for his paradox 白馬非馬, "a white horse is not a horse."Lesson 39Vocab 104c
+公孫龍	Gōngsūn Lóng	Gongsun Long.Name of a prominent logician and philosopher. The logicians, like the Sophists in ancient Greece, were famous for being more interested in the technical side of argumentation and persuasion than in uncovering philosophical wisdom. 莊子 was influenced by their love of paradox, but he was also critical of them; he felt that their manipulation of language demonstrated that it was ultimately inadequate as a tool to convey reality, and that ultimate reality lay beyond language. 公孫龍 became most notorious for his paradox 白馬非馬, "a white horse is not a horse."Lesson 39Vocab 104c
 牟	móu	Barley.This character is relatively rare, except in names (as it is used here).Radical 93 (牛).Lesson 39Vocab 1305
 魏牟	wèi móu	Mou of Wei.Name of a 魏 prince. Later in the text he is referred to as 公子牟, "Prince Mou."Lesson 39Vocab 492a
 堅	jiàn	Hard, unyielding.Radical 32 (土).Lesson 39Vocab 1306
@@ -1650,7 +1650,7 @@
 逡巡	qūn xún	To hesitate, to fall back, to withdraw.Lesson 39Vocab 1331a
 卻	què	To withdraw, to move back.Radical 26 (卩).Lesson 39Vocab 1333
 仞	rèn	"Fathom" (measurement for height or depth, equal to approximately 6 feet).Radical 9 (人).Lesson 39Vocab 1334
-禹	yǔ	[Emperor] Yu.Ancient sage-ruler, controller of the floods and founder of the 夏.Radical 114 (禸).Lesson 39Vocab 1335
+禹	Yǔ	[Emperor] Yu.Ancient sage-ruler, controller of the floods and founder of the 夏.Radical 114 (禸).Lesson 39Vocab 1335
 潦	líao	Heavy rains; floods.Radical 85 (水).Lesson 39Vocab 1336
 損	sǔn	Loss, diminishment; to lose.Radical 64 (手).Lesson 39Vocab 1337
 適適然	shì shì rán	To be startled.See 39.7 below.Lesson 39Vocab 425a
@@ -1662,7 +1662,7 @@
 妙	miào	Marvelous, mysterious, exceptional.Radical 38 (女).Lesson 39Vocab 1341
 跐	cǐ	To tread on, to trample on.Radical 157 (足).Lesson 39Vocab 1342
 泉	quán	Creek, spring, stream.Radical 85 (水).Lesson 39Vocab 1343
-黃泉	huáng quán	The Yellow Springs (the underworld).Lesson 39Vocab 582b
+黃泉	huángquán	The Yellow Springs (the underworld).Lesson 39Vocab 582b
 登	dēng	To climb, to ascend.Radical 105 (癶).Lesson 39Vocab 1344
 皇	huáng	Supreme, exalted; the emperor.Radical 106 (白).Lesson 39Vocab 1345
 大皇	dà huáng	The sky.This term is a poetic expression.Lesson 39Vocab 105d
@@ -1676,7 +1676,7 @@
 餘子	yúzǐ	Young boy.This term is rare.Lesson 39Vocab 301b
 邯	hán	Han. [a place-name](Used in place-name below.)Radical 163 (邑).Lesson 39Vocab 1352
 鄲	dān	Dan. [a place-name](Used in place-name below.)Radical 163 (邑).Lesson 39Vocab 1353
-邯鄲	hán dān	Handan.A city that was the capital of 趙.Lesson 39Vocab 1352a
+邯鄲	Hándān	Handan.A city that was the capital of 趙.Lesson 39Vocab 1352a
 匍	pú	(Used in binome compound below.)Radical 20 (勹).Lesson 39Vocab 1354
 匐	fú	(Used in binome compound below.)Radical 20 (勹).Lesson 39Vocab 1355
 匍匐	pú fú	To crawl on the hands and knees.Lesson 39Vocab 1354a
@@ -1690,7 +1690,7 @@
 龜	guī	Tortoise.Radical 213 (龜).Lesson 40Vocab 1361
 巾	jīn	Kerchief; cloth; head turban.Here, this character is used as a verb: "to wrap in a cloth.Radical 50 (巾).Lesson 40Vocab 1362
 笥	sì	Box, trunk.Here, this character is used as a verb: "to put in a trunk.Radical 118 (竹).Lesson 40Vocab 1363
-惠子	huì zǐ	Master Hui.Name of a philosopher and friend of 莊子; like 公孫龍 (104 c, Lesson 39), he is associated with the logician school.Lesson 40Vocab 65c
+惠子	Huìzǐ	Master Hui.Name of a philosopher and friend of 莊子; like 公孫龍 (104 c, Lesson 39), he is associated with the logician school.Lesson 40Vocab 65c
 搜	sōu	To search.Radical 64 (手).Lesson 40Vocab 1364
 鵷	yuān	[Part of a name (see below).]Radical 196 (鳥).Lesson 40Vocab 1365
 鶵	chú	Chick, fledgling.Here, this character is part of a bird's name.Radical 196 (鳥).Lesson 40Vocab 1366
