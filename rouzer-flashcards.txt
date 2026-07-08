@@ -408,7 +408,7 @@
 勇	yǒng	Courage, bravery; courageous, brave.Radical 19 (力).Lesson 11Vocab 348
 力	lì	Strength, power, ability.Radical 19 (力).Lesson 11Vocab 349
 莊	zhuāng	1. Serious, grave. 2. Zhuang. [a surname]Here, this character is used as a posthumous title.Radical 140 (艸).Lesson 11Vocab 350
-莊公	Zhūanggōng	Duke Zhuang (of Lu; r. 693 -- 662 B.c.e.).Lesson 11Vocab 350a
+莊公	Zhuānggōng	Duke Zhuang (of Lu; r. 693 -- 662 B.c.e.).Lesson 11Vocab 350a
 好	hào	hào (1); hǎo (2)1. To like, to be fond of. * 2. Good, fine, beautiful.Radical 38 (女).Lesson 11Vocab 351
 戰	zhàn	To fight; combat, war.Differentiate this character from 攻 (172) and 伐 (202), which mean "to attack."Radical 62 (戈).Lesson 11Vocab 352
 敗	bài	To be defeated; to defeat.The former use is intransitive, the latter transitive.Radical 66 (攵).Lesson 11Vocab 353
@@ -431,7 +431,7 @@
 莫	mò	1. No one. * 2. Don't . . . . [imperative]Be careful using this character! Technically it functions as an adverb, and it is often preceded by a defining group of people. For example, in this lesson's text we have: 左右莫  . . . , "Among the retainers, no one . . . ." Other examples: 公莫伐齊, "Of the dukes, no one attacked Qi"; 兵莫欲殺之, "Of the soldiers, no one wanted to kill him." In later imperial prose, the imperative usage becomes fairly common.Radical 140 (艸).Lesson 11Vocab 368
 動	dòng	To move, to take action.Radical 19 (力).Lesson 11Vocab 369
 問	wèn	To ask, to inquire.Radical 30 (口).Lesson 11Vocab 370
-強	qíang	Strong, powerful, overbearing.Radical 57 (弓).Lesson 11Vocab 371
+強	qiáng	Strong, powerful, overbearing.Radical 57 (弓).Lesson 11Vocab 371
 弱	ruò	Weak, unassertive, young.This character and 強 form an antonym pair.Radical 57 (弓).Lesson 11Vocab 372
 侵	qīn	To invade, to attack, to assault.Unlike 伐 (202) or 攻 (172), this character tends to emphasize the unprovoked or secret nature of the attack.Radical 9 (人).Lesson 11Vocab 373
 甚	shèn	To a great extent, excessive, too much, extreme.Radical 99 (甘).Lesson 11Vocab 374
@@ -555,7 +555,7 @@
 侍	shì	To attend upon, to serve.Radical 9 (人).Lesson 13Vocab 467
 持	chí	To hold, to grasp.Synonym: 執 (364).Radical 64 (手).Lesson 13Vocab 468
 鈹	pī	Double-bladed sword.This character is very rare and is not the one most commonly used for "sword" (for that, see 劍 [560]).Radical 167 (金).Lesson 13Vocab 469
-詳	yáng	yáng (1); xíang (2)1. To feign, to pretend. * 2. Carefully, in detail.This character, in meaning #1, is a common substitute for the character 佯. Meaning #2, though common, does not occur in our texts.Radical 149 (言).Lesson 13Vocab 470
+詳	yáng	yáng (1); xiáng (2)1. To feign, to pretend. * 2. Carefully, in detail.This character, in meaning #1, is a common substitute for the character 佯. Meaning #2, though common, does not occur in our texts.Radical 149 (言).Lesson 13Vocab 470
 置	zhì	To position, to place.Radical 122 (网).Lesson 13Vocab 471
 炙	zhì	, jeokTo roast; roasted food.Radical 86 (火).Lesson 13Vocab 472
 腹	fù	Belly, stomach.Radical 130 (肉).Lesson 13Vocab 473
