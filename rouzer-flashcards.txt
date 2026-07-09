@@ -1113,7 +1113,7 @@
 
 // Rouzer/Lesson 25
 [文]	wén	1. Literary; literature. 2. Culture; civil society. 3. Pattern, ornament.Here, this character is the posthumous title of a duke. Though it is an extremely common character, it does not occur outside of names in our texts.Radical 65 (文).Lesson 25Vocab 922
-[晉文] (公)	Jìn Wén (gōng)	Duke Wen of Jin (r. 636 -- 628 B.c.e.)Lesson 25Vocab 262a
+[晉文（公）]	Jìn Wén (gōng)	Duke Wen of Jin (r. 636 -- 628 B.c.e.)Lesson 25Vocab 262a
 [尼]	ní	To obstruct, to block.This character is fairly rare, and it later comes to be used as the sinicized Sanskrit word for  "nun." Here, it is part of a personal name.Radical 44 (尸).Lesson 25Vocab 923
 [仲尼]	Zhòngní	Zhongni (polite name of Confucius 孔子 ).Lesson 25Vocab 113b
 [保]	bǎo	To protect, to preserve, to look after.Radical 9 (人).Lesson 25Vocab 924
