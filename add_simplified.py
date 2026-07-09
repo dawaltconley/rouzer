@@ -41,6 +41,7 @@ def main():
         lines = f.readlines()
 
     prefixed = 0
+    distinct = 0
     untouched_data = 0  # data lines whose headword isn't in the map
     untouched_other = 0  # comments and blank lines
 
@@ -55,6 +56,8 @@ def main():
         if trad in mapping:
             out.append(mapping[trad] + line)
             prefixed += 1
+            if trad != mapping[trad]:
+                distinct += 1
         else:
             out.append(line)
             untouched_data += 1
@@ -65,6 +68,7 @@ def main():
 
     print(f"map entries:          {len(mapping)}")
     print(f"lines prefixed:       {prefixed}")
+    print(f"distinct characters:  {distinct}")
     print(f"data lines untouched: {untouched_data} (headword not in map)")
     print(f"other lines:          {untouched_other} (comments/blank)")
     print(f"backup written to:    {BACKUP}")
