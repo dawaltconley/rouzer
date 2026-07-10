@@ -692,7 +692,7 @@
 游[游]	yóu	To play, to stroll, to wander; to swim.In all except the last meaning, this character is used interchangeably with 遊 (287).Radical 85 (水).Lesson 16Vocab 578
 或[或]	huò	1. Someone, somebody, some people. * 2. Sometimes.Like 莫 (368 - 1), this character is used like an adverb; it is often preceded by a subject that expresses the larger group: 左右或知之, "Some of the retainers/someone among the retainers knew it"; 公或伐齊, "Some of the dukes/someone among the dukes attacked Qi"; 兵或欲殺之, "Some of the soldiers/someone among the soldiers wanted to kill him."Radical 62 (戈).Lesson 16Vocab 579
 隐[隱]	yǐn	1. To hide, to conceal; hidden, obscure. * 2. To be pained by, to be upset by.Do not confuse this character with 陰 (427), though the meanings of the two characters do overlap. Meaning #2 (encountered in Lesson 25) is rare.Radical 170 (阜).Lesson 16Vocab 580
-[閒]	jiān	jiān (1); xiàn (2)1. Middle, midst. * 2. Leisurely, calm, idle; on vacation.In meaning #1, this character is a very common substitute for 間 (221).Radical 169 (門).Lesson 16Vocab 581
+閒[閒]	jiān	jiān (1); xiàn (2)1. Middle, midst. * 2. Leisurely, calm, idle; on vacation.In meaning #1, this character is a very common substitute for 間 (221).Radical 169 (門).Lesson 16Vocab 581
 然后[然後]	ránhòu	Only then.Literally, "it being thus, afterward." Synonym: 而後 (35 a).Lesson 16Vocab 231a
 黄[黃]	huáng	Yellow.Radical 201 (黃).Lesson 16Vocab 582
 金[金]	jīn	1. Metal. 2. Precious metal (usually gold or silver). *Since this character's meanings can be very broad, 黃金, "yellow metal," is sometimes used to specify "gold." Sometimes the character is used with a number to represent some quantity of gold or silver (compare 百金, which appears later in this lesson's text).Radical 167 (金).Lesson 16Vocab 583
@@ -716,7 +716,7 @@
 粝[糲]	lì	Unpolished rice.麤糲 is used here by 嚴仲子 to emphasize his humility; he is suggesting that his monetary gift is so insignificant that it can only purchase coarse food.Radical 119 (米, "rice").Lesson 16Vocab 598
 费[費]	fèi	Expense, price, cost; to waste.Radical 154 (貝).Lesson 16Vocab 599
 交[交]	jiāo	1. Friendship, association; to join, to form [friendship], to interchange. * 2. Mutually. 3. To meet, to clash.Synonym (meaning \# 2 ): 相 (264 - 1).Radical 8 (亠).Lesson 16Vocab 600
-[驩]	huān	Delight, joy (obtained from friendship or sexual relations).This character is a variant of the more commonly appearing 歡.Radical 187 (馬).Lesson 16Vocab 601
+驩[驩]	huān	Delight, joy (obtained from friendship or sexual relations).This character is a variant of the more commonly appearing 歡.Radical 187 (馬).Lesson 16Vocab 601
 岂[豈]	qǐ	How . . . , how could . . . .This character is used for rhetorical questions when a negative answer is expected. Note that this is opposite of the so-called modal 其 introduced in Lesson 11 (see 11.6), which anticipates a positive answer when used in a question.Radical 151 (豆, "bean").Lesson 16Vocab 602
 降[降]	xiáng	xiáng (1); jiàng (2)1. To surrender, to make surrender, to suppress. * 2. To descend, to fall.Meaning #2, though common, does not occur in our texts.Radical 170 (阜).Lesson 16Vocab 603
 市井[市井]	shìjǐng	Market, village.This compound can also appear as 井市.Lesson 16Vocab 522a
@@ -1004,7 +1004,7 @@
 裳[裳]	cháng	cháng, shángClothes, robes.Radical 145 (衣).Lesson 21Vocab 833
 闺[閨]	guī	Women's quarters.Radical 169 (門).Lesson 21Vocab 834
 馈[饋]	kuì	Provisions, food; to offer a present [often of food].Radical 184 (食).Lesson 21Vocab 835
-[无]	wú	1. To not have; nonpossession. * 2. Nonexistence, nothingness; to not exist. 3. "Don't . . . ." [negative imperative]This character is used interchangeably with 無 (36). Early texts tend to show propensities for using one or the other---for example, the 莊子 (Lessons 33--40) tends to use 无.Radical 71 (无).Lesson 21Vocab 836
+无[无]	wú	1. To not have; nonpossession. * 2. Nonexistence, nothingness; to not exist. 3. "Don't . . . ." [negative imperative]This character is used interchangeably with 無 (36). Early texts tend to show propensities for using one or the other---for example, the 莊子 (Lessons 33--40) tends to use 无.Radical 71 (无).Lesson 21Vocab 836
 攸[攸]	yōu	[Archaic version of 所.]Radical 66 (攵).Lesson 21Vocab 837
 仪[儀]	yí	Ornament, decoration; ceremony; ritual regalia.Radical 9 (人).Lesson 21Vocab 838
 惟[惟]	wéi	Only.This character substitutes for the more proper 唯 (750).Radical 61 (心).Lesson 21Vocab 839
@@ -1113,7 +1113,7 @@
 
 // Rouzer/Lesson 25
 文[文]	wén	1. Literary; literature. 2. Culture; civil society. 3. Pattern, ornament.Here, this character is the posthumous title of a duke. Though it is an extremely common character, it does not occur outside of names in our texts.Radical 65 (文).Lesson 25Vocab 922
-[晉文（公）]	Jìn Wén (gōng)	Duke Wen of Jin (r. 636 -- 628 B.c.e.)Lesson 25Vocab 262a
+晋文公[晉文公]	Jìn Wéngōng	Duke Wen of Jin (r. 636 -- 628 B.c.e.)Lesson 25Vocab 262a
 尼[尼]	ní	To obstruct, to block.This character is fairly rare, and it later comes to be used as the sinicized Sanskrit word for  "nun." Here, it is part of a personal name.Radical 44 (尸).Lesson 25Vocab 923
 仲尼[仲尼]	Zhòngní	Zhongni (polite name of Confucius 孔子 ).Lesson 25Vocab 113b
 保[保]	bǎo	To protect, to preserve, to look after.Radical 9 (人).Lesson 25Vocab 924
@@ -1198,7 +1198,7 @@
 商[商]	shāng	Merchant.Radical 30 (口).Lesson 27Vocab 982
 旅[旅]	lǚ	To travel; traveler.Radical 70 (方).Lesson 27Vocab 983
 赴[赴]	fù	To hurry to, to rush to, to head toward.Radical 156 (走).Lesson 27Vocab 984
-[愬]	sù	To lodge a complaint about.This character is a different version of 訴.Radical 61 (心).Lesson 27Vocab 985
+愬[愬]	sù	To lodge a complaint about.This character is a different version of 訴.Radical 61 (心).Lesson 27Vocab 985
 惛[惛]	hūn	Stupid, muddleheaded.Radical 61 (心).Lesson 27Vocab 986
 敏[敏]	mǐn	Clever, quick-witted.Radical 66 (攵).Lesson 27Vocab 987
 试[試]	shì	To try, to test.Radical 149 (言).Lesson 27Vocab 988
@@ -1242,7 +1242,7 @@
 箪[簞]	dān	Round bamboo basket for holding rice.Radical 118 (竹).Lesson 29Vocab 1013
 羹[羹]	gēng	Soup, gruel.Radical 123 (羊).Lesson 29Vocab 1014
 弗[弗]	fú	[Contraction of 不 and 之 .]As did 勿 (163), this character originally occurred when 之 was inverted and placed before the verb (see 5.7). As time passed, writers and readers soon confused it with 不 and simply used it as a negative.Radical 57 (弓).Lesson 29Vocab 1015
-[嘑]	hù	To abuse; abusively.Radical 30 (口).Lesson 29Vocab 1016
+嘑[嘑]	hù	To abuse; abusively.Radical 30 (口).Lesson 29Vocab 1016
 尔[爾]	ěr	1. [Same as 然 ( 231-3 ), an adverb marker.]* 2. You. [informal second person pronoun, same as 汝 ( 525 )]Radical 89 (爻).Lesson 29Vocab 1017
 蹴[蹴]	cù	To trample on, to kick.Radical 157 (足).Lesson 29Vocab 1018
 屑[屑]	xiè	Worthwhile, to consider worthwhile.This character usually appears in negated form: 不屑, "unworthy," "to disregard," "to reject as unworthy."Radical 44 (尸).Lesson 29Vocab 1019
@@ -1307,7 +1307,7 @@
 李誕[李誕]	Lǐ Dàn	Li Dan. [a proper name]Radical 75 (木).Lesson 31Vocab 1057a
 寄[寄]	jì	To send; to lodge, to stay temporarily.Here, this character is a person's name.Radical 40 (宀).Lesson 31Vocab 1059
 缇[緹]	tí	A kind of light-red silk.Here, this character is part of a person's name.Radical 120 (糸).Lesson 31Vocab 1060
-[萦]	yíng	To wind around, to coil.This character is a variant of 縈, and it is used here as part of a person's name.Radical 120Lesson 31Vocab 1061
+萦[萦]	yíng	To wind around, to coil.This character is a variant of 縈, and it is used here as part of a person's name.Radical 120Lesson 31Vocab 1061
 緹萦[緹萦]	Tíyíng	Tiying (name of a filial girl from the Hàn 漢 dynasty).This girl's full name was Chúnyú Tíyíng 淳于緹萦. In the second century b.c.e., when her parents were convicted of a crime, she offered herself as a slave to redeem them. The emperor felt sorry for her and freed her parents.Radical 120 (糸).Lesson 31Vocab 1060a
 济[濟]	jì	To rescue, to assist.Radical 85 (水).Lesson 31Vocab 1062
 早[早]	zǎo	Early; morning.Radical 72 (日).Lesson 31Vocab 1063
@@ -1330,10 +1330,10 @@
 疮[瘡]	chuāng	Wound.Radical 104 (疒).Lesson 31Vocab 1079
 痛[痛]	tòng	Sore, aching, painful.Radical 104 (疒).Lesson 31Vocab 1080
 急[急]	jí	1. Severe, sharp. * 2. Swift, quick; to hurry. 3. To be anxious; to be in a state of crisis.This character is common in all of these meanings, though only meaning #1 occurs in our texts.Radical 61 (心).Lesson 31Vocab 1081
-[踊]	yǒng	To leap, to jump.This character is also written 踴 (774).Radical 157 (足).Lesson 31Vocab 1082
+踊[踊]	yǒng	To leap, to jump.This character is also written 踴 (774).Radical 157 (足).Lesson 31Vocab 1082
 髑[髑]	dú	Skull.Radical 188 (骨).Lesson 31Vocab 1083
 髅[髏]	lóu	Skull.髑髏 is a common synonym compound (in fact, it is rare to see these two characters separate from each other).Radical 188 (骨).Lesson 31Vocab 1084
-[咤]	zhà	To upbraid, to pity.Radical 30 (口).Lesson 31Vocab 1085
+咤[咤]	zhà	To upbraid, to pity.Radical 30 (口).Lesson 31Vocab 1085
 怯[怯]	què	Timid, cowardly; to be afraid.Radical 61 (心).Lesson 31Vocab 1086
 愍[愍]	mǐn	To pity.Radical 61 (心).Lesson 31Vocab 1087
 缓[緩]	huǎn	Slow, gradual; slowly, leisurely.Radical 120 (糸).Lesson 31Vocab 1088
@@ -1590,7 +1590,7 @@
 胁[脅]	xié	Ribs.Radical 130 (肉).Lesson 37Vocab 1285
 蓬[蓬]	péng	1. Tumbleweed, artemisia plant. 2. Booming, roaring. [onomatopoetic]*Radical 140 (艸).Lesson 37Vocab 1286
 指[指]	zhǐ	Finger; to point to; to head toward.Here, the sense of this character is "to hold up a finger against"---that is, the wind cannot  "blow over" one's finger.Radical 64 (手).Lesson 37Vocab 1287
-[鰌]	qiú	qiú (1); yóu (2)1. The loach (a kind of fish). 2. To trample. *Meaning #2, used here, is a substitution for 輶.Radical 195 (魚).Lesson 37Vocab 1288
+鰌[鰌]	qiú	qiú (1); yóu (2)1. The loach (a kind of fish). 2. To trample. *Meaning #2, used here, is a substitution for 輶.Radical 195 (魚).Lesson 37Vocab 1288
 蜚[蜚]	fēi	To fly.This character is a nonstandard version of 飛 (1123), used here in a causative sense.Radical 142 (虫).Lesson 37Vocab 1289
 
 // Rouzer/Lesson 38
@@ -1620,12 +1620,12 @@
 坚[堅]	jiàn	Hard, unyielding.Radical 32 (土).Lesson 39Vocab 1306
 茫[茫]	máng	To be confused; dim, hard to make out.This character is one of a series of descriptive words in literary Chinese that can describe both one's surroundings and one's mental state.Radical 140 (艸).Lesson 39Vocab 1307
 喙[喙]	huì	Beak.Here, this word is used comically to describe the mouth.Radical 30 (口).Lesson 39Vocab 1308
-[机]	jī	Armrest.A long, narrow, bench-shaped piece of furniture used to lean on while sitting on a mat.Radical 75 (木).Lesson 39Vocab 1309
+机[机]	jī	Armrest.A long, narrow, bench-shaped piece of furniture used to lean on while sitting on a mat.Radical 75 (木).Lesson 39Vocab 1309
 隱机[隱机]	yǐnjī	To lean on an armrest.This meaning of 隱 tends to occur almost exclusively in the expression 隱机.Lesson 39Vocab 580a
 埳[埳]	kǎn	Caved in, crumbling.Radical 32 (土).Lesson 39Vocab 1310
 跳[跳]	tiào	To leap, to jump.Radical 157 (足).Lesson 39Vocab 1311
 跳梁[跳梁]	tiàoliáng	To hop about (often in a superior or boasting manner). [idiomatic phrase]Lesson 39Vocab 1311a
-[榦]	hán	Well rim; railing around a well.Radical 75 (木).Lesson 39Vocab 1312
+干[榦]	hán	Well rim; railing around a well.Radical 75 (木).Lesson 39Vocab 1312
 休[休]	xiū	To rest.Radical 9 (人).Lesson 39Vocab 1313
 缺[缺]	quē	To lack; to be missing.Radical 121 (缶, "pot").Lesson 39Vocab 1314
 甃[甃]	zhòu	Tile.Radical 98 (瓦, "tile").Lesson 39Vocab 1315
@@ -1633,13 +1633,13 @@
 颐[頤]	yí	Chin, jaw.Radical 181 (頁).Lesson 39Vocab 1317
 蹶[蹶]	jué	To slip, to stumble.Radical 157 (足).Lesson 39Vocab 1318
 泥[泥]	ní	Mud, mire, dirt.Radical 85 (水).Lesson 39Vocab 1319
-[没]	mò	To sink.Note: The modern Mandarin use of this character (i.e., 沒有) does not occur in literary Chinese.Radical 85 (水).Lesson 39Vocab 1320
+没[沒]	mò	To sink.Note: The modern Mandarin use of this character (i.e., 沒有) does not occur in literary Chinese.Radical 85 (水).Lesson 39Vocab 1320
 跗[跗]	fū	Heel.Radical 157 (足).Lesson 39Vocab 1321
 虷[虷]	hán	Mosquito larva.Radical 142 (虫).Lesson 39Vocab 1322
 蟹[蟹]	xiě	Crab.Radical 142 (虫).Lesson 39Vocab 1323
 科[科]	kē	Class, order, series.Here, this character is used in a compound.Radical 115 (禾).Lesson 39Vocab 1324
 斗[斗]	dǒu	Dou (A dry measurement, usually translated as "peck").Here, this character is used in a compound.Radical 68 (斗).Lesson 39Vocab 1325
-[科斗]	kēdǒu	Tadpole.Lesson 39Vocab 1324a
+科斗[科斗]	kēdǒu	Tadpole.Lesson 39Vocab 1324a
 壑[壑]	huò	Ravine; hole.Radical 32 (土).Lesson 39Vocab 1326
 跨[跨]	kuà	To bestride, to occupy.Radical 157 (足).Lesson 39Vocab 1327
 跱[跱]	zhì	To stay; at peace; calm.Radical 157 (足).Lesson 39Vocab 1328
